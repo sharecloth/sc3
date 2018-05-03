@@ -18,6 +18,7 @@
     <!-- CSS Global Compulsory -->
     <link rel="stylesheet" href="assets/vendor/bootstrap/bootstrap.min.css">
     <link rel="stylesheet" href="assets/vendor/icon-hs/style.css">
+    <link rel="stylesheet" href="assets/vendor/icon-awesome/css/font-awesome.min.css">
     <link rel="stylesheet" href="assets/vendor/icon-line-pro/style.css">
     <link rel="stylesheet" href="assets/vendor/hs-megamenu/src/hs.megamenu.css">
     <link rel="stylesheet" href="assets/vendor/animate.css">
@@ -974,11 +975,22 @@
       </header>
 
 
-      <div class="container g-py-150 text-center">
-        <h1 class="g-font-size-60 mb-4">Blank Page</h1>
-        <p class="g-font-size-18 mb-5">This is a plain page to start building your website like a Lego!</p>
-        <a class="btn u-btn-outline-primary g-font-size-13 text-uppercase g-py-10 g-px-15" href="index.html">Back to the Intro Page</a>
-      </div>
+
+      <!-- Promo Block -->
+      <section class="g-bg-cover g-bg-pos-top-center g-bg-img-hero g-bg-black-opacity-0_3--after g-min-height-100vh g-flex-centered g-py-100" style="background-image: url(assets/img-temp/1920x1080/img5.jpg);">
+        <div class="container g-color-white text-center g-z-index-1">
+          <div class="mb-5">
+            <h2 class="g-font-weight-700 g-font-size-40 g-font-size-70--md text-uppercase g-mb-30">
+              We are
+              <span class="u-text-animation u-text-animation--typing"></span>
+            </h2>
+            <p class="g-font-size-24">Clean and fully responsive Template.</p>
+          </div>
+
+          <a class="js-go-to btn u-btn-outline-white g-color-white g-bg-white-opacity-0_1 g-color-black--hover g-bg-white--hover g-font-weight-600 text-uppercase g-rounded-50 g-px-30 g-py-13" href="#!" data-target="#content">Get Started</a>
+        </div>
+      </section>
+      <!-- End Promo Block -->
 
     <!-- Icon Blocks -->
       <div class="row no-gutters g-brd-bottom--lg g-brd-gray-light-v4">
@@ -1258,7 +1270,7 @@
 
     <!-- Newsletter -->
     <section class="container">
-      <div class="g-bg-secondary g-py-70 g-px-20">
+      <div class="g-bg-secondary g-py-70 g-px-20 g-mb-110">
         <div class="row justify-content-center">
           <div class="col-sm-10 col-md-7 col-lg-5">
             <div class="text-center g-mb-50">
@@ -1430,12 +1442,14 @@
     <script src="assets/vendor/popper.min.js"></script>
     <script src="assets/vendor/bootstrap/bootstrap.min.js"></script>
     <script src="assets/vendor/slick-carousel/slick/slick.js"></script>
+    <script src="assets/vendor/typedjs/typed.min.js"></script>
 
     <!-- JS Unify -->
     <script src="assets/js/hs.core.js"></script>
     <script src="assets/js/components/hs.header.js"></script>
     <script src="assets/js/helpers/hs.hamburgers.js"></script>
     <script src="assets/js/components/hs.carousel.js"></script>
+
 
     <!-- JS Custom -->
     <script src="assets/js/custom.js"></script>
@@ -1447,33 +1461,20 @@
         $(document).on('ready', function () {
             // initialization of carousel
             $.HSCore.components.HSCarousel.init('.js-carousel');
+        });
 
-            // initialization of tabs
-            //$.HSCore.components.HSTabs.init('[role="tablist"]');
-
-//            // initialization of header's height equal offset
-//            $.HSCore.helpers.HSHeightCalc.init();
-//
-//            // initialization of scroll animation
-//            $.HSCore.components.HSOnScrollAnimation.init('[data-animation]');
-//
-//            // initialization of video on background
-//            $.HSCore.helpers.HSBgVideo.init('.js-bg-video');
-//
-//            // initialization of popups with media
-//            $.HSCore.components.HSPopup.init('.js-fancybox-media', {
-//                helpers: {
-//                    media: {},
-//                    overlay: {
-//                        css: {
-//                            'background': 'rgba(0, 0, 0, .8)'
-//                        }
-//                    }
-//                }
-//            });
-
-            // initialization of go to
-            //$.HSCore.components.HSGoTo.init('.js-go-to');
+        $(document).on('ready', function () {
+            // initialization of text animation (typing)
+            $(".u-text-animation.u-text-animation--typing").typed({
+                strings: [
+                    "awesome",
+                    "creative",
+                    "unify"
+                ],
+                typeSpeed: 60,
+                loop: true,
+                backDelay: 1500
+            });
         });
 
         $(window).on('load', function () {
