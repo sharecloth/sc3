@@ -1,0 +1,27 @@
+{
+  "name": "sharecloth/sc3",
+  "description": "sharecloth landing",
+  "minimum-stability": "dev",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "petr marochkin",
+      "email": "petun911@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Site\\": "src-site"
+    }
+  },
+  "require": {
+    "zfr/zfr-mailchimp": "^2.0",
+    "symfony/validator": "^3.2",
+    "petun/forms": "dev-master",
+    "guzzlehttp/guzzle": "^6.2",
+    "phpunit/phpunit": "5.5.*",
+    "alchemy/zippy": "^0.4.8",
+    "ganga/potato-orm": "^1.0@dev",
+    "libcast/highrise": "dev-master"
+  }
+}

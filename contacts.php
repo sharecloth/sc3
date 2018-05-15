@@ -1,8 +1,7 @@
 <?php include "_header.php";?>
 
     <!-- Promo Block -->
-    <section class="u-bg-overlay g-bg-size-cover g-bg-pos-center g-bg-black-opacity-0_3--after" style="background-image: url(../../assets/img-temp/1920x800/img4.jpg);">
-      </div>
+    <section class="u-bg-overlay g-bg-size-cover g-bg-pos-center g-bg-black-opacity-0_3--after" style="background-image: url(assets/img-temp/1920x800/img4.jpg);">
       <div class="container g-color-white text-center g-pos-rel g-z-index-1 g-py-150">
         <h1 class="h2 g-font-weight-300">It is good to meet you</h1>
         <h2 class="display-2 g-font-weight-600 text-uppercase g-letter-spacing-1">Contact us</h2>
