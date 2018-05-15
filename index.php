@@ -108,9 +108,8 @@
           <div class="row no-gutters">
             <div class="col-sm-6 col-lg-3">
               <div class="g-pr-40 g-mt-20">
-                <div class="g-mb-30">
-                  <h2 class="h2 g-color-black g-font-weight-600 g-line-height-1_2 mb-4">How does<br>it work?</h2>
-                  <p class="g-font-weight-300 g-font-size-16"><strong>ShareCloth</strong> enables the business to digitize style's manufacturing assets and pull it into the digital supply chain to run the process once order been placed and paid</p>
+                <div class="g-mt-100 g-mb-30">
+                  <h2 class="h1 g-color-black g-font-weight-600 g-line-height-1_2 mb-4">How does<br>it work?</h2>
                 </div>
               </div>
             </div>
@@ -139,7 +138,7 @@
                         <i class="icon-education-087 u-line-icon-pro"></i>
                       </span>
                       <h3 class="h5 g-color-black g-font-weight-600 mb-3">Develop the design <br />&nbsp;</h3>
-                      <p>Your style – your rules: ShareCloth doesn’t dictate creative rules or retail channel to use</p>
+                      <p>Your style – your rules: We don't dictate creative rules or retail channel to use</p>
                     </div>
                     <a class="g-brd-bottom g-brd-gray-dark-v5 g-brd-primary--hover g-color-gray-dark-v5 g-color-primary--hover g-font-weight-600 g-font-size-12 text-uppercase g-text-underline--none--hover"
                        href="#!">Read more</a>
@@ -243,7 +242,7 @@
               <span class="u-icon-v3 u-icon-size--lg g-color-white g-bg-primary g-pull-50x-up rounded-circle">
                   <i class="icon-finance-167 u-line-icon-pro"></i>
                 </span>
-              <h3 class="h4 g-color-gray-dark-v2 g-mb-10">Small and Medium business</h3>
+              <h3 class="h4 g-color-gray-dark-v2 g-mb-10">For small and medium business</h3>
               <p class="g-mb-15">Release collections faster, build transparent digital relationships with the manufacturer and keep fabric unused before the order being paid</p>
               <a class="g-font-size-12 text-uppercase g-font-weight-600" href="#!">Read More</a>
             </div>
@@ -256,7 +255,7 @@
               <span class="u-icon-v3 u-icon-size--lg g-color-white g-bg-primary g-pull-50x-up rounded-circle">
                   <i class="icon-finance-218 u-line-icon-pro"></i>
                 </span>
-              <h3 class="h4 g-color-gray-dark-v2 g-mb-10">Enterprise business</h3>
+              <h3 class="h4 g-color-gray-dark-v2 g-mb-10">For enterprise business</h3>
               <p class="g-mb-15">Build the new level of loyalty and personalization by offering styles' on-demand customization to your best customers</p>
               <a class="g-font-size-12 text-uppercase g-font-weight-600" href="#!">Read More</a>
             </div>
