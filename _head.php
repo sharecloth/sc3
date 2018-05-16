@@ -30,5 +30,6 @@
     <link rel="stylesheet" href="assets/css/unify-globals.css">
 
     <!-- CSS Customization -->
+    <link rel="stylesheet" href="assets/css/theme.css" />
     <link rel="stylesheet" href="assets/css/custom.css">
 </head>
