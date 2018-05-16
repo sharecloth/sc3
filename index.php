@@ -2,7 +2,7 @@
 
 
       <!-- Promo Block -->
-      <section class="g-bg-cover g-bg-pos-top-center g-bg-img-hero g-bg-black-opacity-0_3--after g-min-height-100vh g-flex-centered g-py-100" style="background-image: url(assets/sc/bg.jpg);">
+      <section class="g-bg-cover g-bg-pos-top-center g-bg-img-hero g-bg-black-opacity-0_3--after g-min-height-100vh g-flex-centered g-py-100" style="background-image: url(assets/sc/bg3.jpg); background-position-y: 10%">
         <div class="container g-color-white text-center g-z-index-1">
           <div class="mb-5">
 			<h2 class="g-font-size-40 g-font-size-50--md">We help fashion business' to</h2>
@@ -40,7 +40,7 @@
 	              <div class="col-sm-6 text-center text-lg-left g-mb-50">
 	                <!-- Icon Blocks -->
 	                <span class="d-inline-block g-color-primary g-font-size-30 g-rounded-5 mb-2">
-	                  <i class="icon-education-087 u-line-icon-pro"></i>
+	                  <i class="icon-transport-017 u-line-icon-pro"></i>
 	                </span>
 	                <h3 class="h5 g-color-black g-font-weight-600 mb-2">Speed</h3>
 	                <p class="mb-0">to swap retail and manufacturing steps by digitising supply chain</p>
@@ -50,7 +50,7 @@
 	              <div class="col-sm-6 text-center text-lg-left g-mb-50">
 	                <!-- Icon Blocks -->
 	                <span class="d-inline-block g-color-primary g-font-size-30 g-rounded-5 mb-2">
-	                  <i class="icon-education-035 u-line-icon-pro"></i>
+	                  <i class="icon-real-estate-032 u-line-icon-pro"></i>
 	                </span>
 	                <h3 class="h5 g-color-black g-font-weight-600 mb-2">Risks</h3>
 	                <p class="mb-0">sell before the manufacturing</p>
@@ -60,7 +60,7 @@
 	              <div class="col-sm-6 text-center text-lg-left g-mb-50">
 	                <!-- Icon Blocks -->
 	                <span class="d-inline-block g-color-primary g-font-size-30 g-rounded-5 mb-2">
-	                  <i class="icon-education-141 u-line-icon-pro"></i>
+	                  <i class="icon-real-estate-048 u-line-icon-pro"></i>
 	                </span>
 	                <h3 class="h5 g-color-black g-font-weight-600 mb-2">Localization</h3>
 	                <p class="mb-0">implementing on-demand business approach</p>
@@ -70,7 +70,7 @@
 	              <div class="col-sm-6 text-center text-lg-left g-mb-50">
 	                <!-- Icon Blocks -->
 	                <span class="d-inline-block g-color-primary g-font-size-30 g-rounded-5 mb-2">
-	                  <i class="icon-finance-256 u-line-icon-pro"></i>
+	                  <i class="icon-finance-198 u-line-icon-pro"></i>
 	                </span>
 	                <h3 class="h5 g-color-black g-font-weight-600 mb-2">Sustainability</h3>
 	                <p class="mb-0">be assured in the size fitting before production</p>
@@ -135,7 +135,7 @@
                     <div class="mb-4">
                       <span class="d-block g-color-gray-dark-v4 g-font-weight-700 text-right mb-3">Step 1</span>
                       <span class="u-icon-v3 u-shadow-v19 g-bg-white g-color-primary rounded-circle mb-4">
-                        <i class="icon-education-087 u-line-icon-pro"></i>
+                        <i class="icon-clothes-093 u-line-icon-pro"></i>
                       </span>
                       <h3 class="h5 g-color-black g-font-weight-600 mb-3">Develop the design <br />&nbsp;</h3>
                       <p>Your style – your rules: We don't dictate creative rules or retail channel to use</p>
@@ -152,7 +152,7 @@
                     <div class="mb-4">
                       <span class="d-block g-color-gray-dark-v4 g-font-weight-700 text-right mb-3">Step 2</span>
                       <span class="u-icon-v3 u-shadow-v19 g-bg-white g-color-primary rounded-circle mb-4">
-                        <i class="icon-education-035 u-line-icon-pro"></i>
+                        <i class="icon-travel-121 u-line-icon-pro"></i>
                       </span>
                       <h3 class="h5 g-color-black g-font-weight-600 mb-3">Import into ShareCloth <br />&nbsp;</h3>
                       <p>Once the style is ready for manufacturing: import all the data into the ShareCloth</p>
@@ -169,7 +169,7 @@
                     <div class="mb-4">
                       <span class="d-block g-color-gray-dark-v4 g-font-weight-700 text-right mb-3">Step 3</span>
                       <span class="u-icon-v3 u-shadow-v19 g-bg-white g-color-primary rounded-circle mb-4">
-                        <i class="icon-education-141 u-line-icon-pro"></i>
+                        <i class="icon-medical-046 u-line-icon-pro"></i>
                       </span>
                       <h3 class="h5 g-color-black g-font-weight-600 mb-3">Get fitted customized order on retail platform </h3>
                       <p>Using plenty of options add seamless interface to your website or mobile app</p>
@@ -186,7 +186,7 @@
                     <div class="mb-4">
                       <span class="d-block g-color-gray-dark-v4 g-font-weight-700 text-right mb-3">Step 4</span>
                       <span class="u-icon-v3 u-shadow-v19 g-bg-white g-color-primary rounded-circle mb-4">
-                        <i class="icon-finance-256 u-line-icon-pro"></i>
+                        <i class="icon-finance-144 u-line-icon-pro"></i>
                       </span>
                       <h3 class="h5 g-color-black g-font-weight-600 mb-3">Send techpack into production 
 					</h3>
@@ -204,7 +204,7 @@
                     <div class="mb-4">
                       <span class="d-block g-color-gray-dark-v4 g-font-weight-700 text-right mb-3">Step 5</span>
                       <span class="u-icon-v3 u-shadow-v19 g-bg-white g-color-primary rounded-circle mb-4">
-                        <i class="icon-finance-256 u-line-icon-pro"></i>
+                        <i class="icon-hotel-restaurant-103 u-line-icon-pro"></i>
                       </span>
                       <h3 class="h5 g-color-black g-font-weight-600 mb-3">Deliver 
 					</h3>
@@ -240,7 +240,7 @@
             <!-- Icon Blocks -->
             <div class="g-brd-around g-brd-gray-light-v4 text-center rounded g-px-30 g-pb-30">
               <span class="u-icon-v3 u-icon-size--lg g-color-white g-bg-primary g-pull-50x-up rounded-circle">
-                  <i class="icon-finance-167 u-line-icon-pro"></i>
+                  <i class="icon-real-estate-003 u-line-icon-pro"></i>
                 </span>
               <h3 class="h4 g-color-gray-dark-v2 g-mb-10">For small and medium business</h3>
               <p class="g-mb-15">Release collections faster, build transparent digital relationships with the manufacturer and keep fabric unused before the order being paid</p>
@@ -253,7 +253,7 @@
             <!-- Icon Blocks -->
             <div class="g-brd-around g-brd-gray-light-v4 text-center rounded g-px-30 g-pb-30">
               <span class="u-icon-v3 u-icon-size--lg g-color-white g-bg-primary g-pull-50x-up rounded-circle">
-                  <i class="icon-finance-218 u-line-icon-pro"></i>
+                  <i class="icon-real-estate-066 u-line-icon-pro"></i>
                 </span>
               <h3 class="h4 g-color-gray-dark-v2 g-mb-10">For enterprise business</h3>
               <p class="g-mb-15">Build the new level of loyalty and personalization by offering styles' on-demand customization to your best customers</p>
