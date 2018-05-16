@@ -313,34 +313,6 @@
           </div>
           <!-- End Image, Text Block -->
         </div>
-
-        <div class="container">
-          <!-- Image, Text Block -->
-          <div class="row d-flex justify-content-between align-items-lg-center flex-wrap g-mt-minus-50--lg">
-            <div class="col-md-6 order-md-2">
-              <div class="g-brd-around--md g-brd-10 g-brd-white rounded">
-                <img class="img-fluid w-100 rounded" src="./assets/sc/phone1.png" alt="Image Description">
-              </div>
-            </div>
-            <div class="col-md-6 col-lg-4 ml-auto order-md-1">
-              <div class="g-mt-minus-30 g-mt-0--md g-ml-minus-100--lg">
-                <div class="g-mb-20">
-                  <h2 class="g-color-black g-font-weight-600 g-font-size-25 g-font-size-35--lg g-line-height-1_2 mb-4">Fit. Indeed.<br>
-                  </h2>
-                  <p class="g-font-size-16">We invited 40 girls to order a dress within the new shopping experience and the on-demand model</p>
-					
-                </div>
-                <a class="btn u-btn-primary g-brd-2 g-brd-white g-font-size-13 g-rounded-50 g-pl-20 g-pr-15 g-py-9" href="#!">
-                  Learn more
-                  <span class="align-middle u-icon-v3 g-width-16 g-height-16 g-color-black g-bg-white g-font-size-11 rounded-circle ml-3">
-                    <i class="fa fa-angle-right"></i>
-                  </span>
-                </a>
-              </div>
-            </div>
-          </div>
-          <!-- End Image, Text Block -->
-        </div>
       </section>
       <!-- End About -->
 
