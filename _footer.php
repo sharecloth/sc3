@@ -153,6 +153,7 @@
 <script src="assets/vendor/hs-megamenu/src/hs.megamenu.js"></script>
 <script src="assets/vendor/slick-carousel/slick/slick.js"></script>
 <script src="assets/vendor/gmaps/gmaps.min.js"></script>
+<script type="text/javascript" src="vendor/petun/forms/frontend/js/jquery.petun-forms.js"></script>
 
 <!-- JS Unify -->
 <script src="assets/js/hs.core.js"></script>

@@ -5,6 +5,7 @@ namespace Site;
 
 
 use Petun\Forms\Actions\MailAction;
+use PHPMailer\PHPMailer\PHPMailer;
 
 class MailActionHq extends MailAction
 {
@@ -12,11 +13,10 @@ class MailActionHq extends MailAction
     /**
      * @return bool
      * @throws \Exception
-     * @throws \phpmailerException
      */
     function run() {
         //Create a new PHPMailer instance
-        $mail = new \PHPMailer;
+        $mail = new PHPMailer;
 
         $mail->CharSet = 'utf-8';
 

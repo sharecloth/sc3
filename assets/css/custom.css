@@ -1,1 +1,19 @@
 /* Add here all your css styles (customizations) */
+
+.form-result {
+    margin-top: 30px;
+}
+
+.form-result p {
+    margin: 0;
+}
+
+.error-message {
+    color: red;
+}
+
+.success-message {
+    display: block;
+    color: #06af28;
+    font-size: 18px;
+}

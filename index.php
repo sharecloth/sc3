@@ -326,14 +326,21 @@
               <p>Subscribe to our newsletter for the latest news, promotions and deals.</p>
             </div>
 
-            <div class="input-group u-shadow-v19 g-rounded-50">
-              <input class="form-control g-color-gray-dark-v4 g-placeholder-gray-dark-v3 border-0 g-rounded-left-50 g-px-20" type="email" placeholder="Enter email" aria-label="Enter email">
-              <div class="input-group-append g-bg-white border-0 g-rounded-right-50">
-                <button class="btn u-btn-primary g-width-40 g-height-40 rounded-circle" type="submit">
-                  <i class="fa fa-send"></i>
-                </button>
+              <form class="subscribe-form">
+              <div class="input-group u-shadow-v19 g-rounded-50">
+                  <input class="form-control g-color-gray-dark-v4 g-placeholder-gray-dark-v3 border-0 g-rounded-left-50 g-px-20"
+                         type="email" name="email" placeholder="Enter email" aria-label="Enter email">
+                  <input type="hidden" name="internalSource" value="News">
+                  <input type="hidden" name="type" value="News">
+                  <div class="input-group-append g-bg-white border-0 g-rounded-right-50">
+                      <button class="btn u-btn-primary g-width-40 g-height-40 rounded-circle" type="submit">
+                          <i class="fa fa-send"></i>
+                      </button>
+                  </div>
               </div>
-            </div>
+              </form>
+              <div class="success-message"></div>
+              <div class="error-message"></div>
           </div>
         </div>
       </div>

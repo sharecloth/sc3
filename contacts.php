@@ -73,27 +73,82 @@
 			  <hr class="g-my-40">
 
 			  <!-- Contact Form -->
-			  <form>
-			    <div class="g-mb-20">
-			      <label class="g-color-gray-dark-v2 g-font-weight-600 g-font-size-13">Your name: <span class="g-color-red">*</span>
-			      </label>
-			      <input class="form-control g-color-gray-dark-v5 g-bg-white g-bg-white--focus g-brd-primary--focus g-brd-gray-light-v4 rounded-3 g-py-13 g-px-15" type="text">
-			    </div>
+            <form id="contact-us-form">
+                <input type="hidden" name="formId" value="contactForm">
+                <div class="form-group"><label for="type">Request type</label>
+                    <select id="type" name="type"
+                            class="form-control g-color-gray-dark-v5 g-bg-white g-bg-white--focus g-brd-primary--focus g-brd-gray-light-v4 rounded-3 g-py-13 g-px-15">
 
-			    <div class="g-mb-20">
-			      <label class="g-color-gray-dark-v2 g-font-weight-600 g-font-size-13">Your email: <span class="g-color-red">*</span>
-			      </label>
-			      <input class="form-control g-color-gray-dark-v5 g-bg-white g-bg-white--focus g-brd-primary--focus g-brd-gray-light-v4 rounded-3 g-py-13 g-px-15" type="email">
-			    </div>
+                        <option value="Products - 3D retail inquiry">Products - "3D retail" inquiry</option>
+                        <option value="Products - Product development inquiry">Products - "Product development"
+                            inquiry
+                        </option>
+                        <option value="Services request">Services request</option>
+                        <option value="ShareCloth Creators">ShareCloth Creators</option>
+                        <option selected="1" value="Feedback">Feedback</option>
+                        <option value="Support">Support</option>
+                    </select>
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <label for="fname">Name <sup class="g-color-red">*</sup></label>
+                            <input type="text"
+                                   name="name"
+                                   id="fname"
+                                   class="form-control g-color-gray-dark-v5 g-bg-white g-bg-white--focus g-brd-primary--focus g-brd-gray-light-v4 rounded-3 g-py-13 g-px-15">
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="form-group"><label for="email">Email <sup class="g-color-red">*</sup>
+                            </label><input type="email"
+                                           name="email"
+                                           id="email"
+                                           class="form-control g-color-gray-dark-v5 g-bg-white g-bg-white--focus g-brd-primary--focus g-brd-gray-light-v4 rounded-3 g-py-13 g-px-15">
+                        </div>
+                    </div>
+                </div>
 
-			    <div class="g-mb-40">
-			      <label class="g-color-gray-dark-v2 g-font-weight-600 g-font-size-13">Your message: <span class="g-color-red">*</span>
-			      </label>
-			      <textarea class="form-control g-color-gray-dark-v5 g-bg-white g-bg-white--focus g-brd-primary--focus g-brd-gray-light-v4 g-resize-none rounded-3 g-py-13 g-px-15" rows="7"></textarea>
-			    </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="form-group"><label for="company">Company name <sup class="g-color-red">*</sup></label>
+                            <input type="text"
+                                   name="company"
+                                   id="company"
+                                   class="form-control g-color-gray-dark-v5 g-bg-white g-bg-white--focus g-brd-primary--focus g-brd-gray-light-v4 rounded-3 g-py-13 g-px-15">
+                        </div>
 
-			    <button class="btn btn-lg u-btn-primary g-font-weight-600 g-font-size-default rounded-3 text-uppercase g-py-15 g-px-30" type="submit" role="button">Send Enquiry</button>
-			  </form>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="form-group"><label for="position">Position </label>
+                            <input type="text"
+                                   name="position"
+                                   id="position"
+                                   class="form-control g-color-gray-dark-v5 g-bg-white g-bg-white--focus g-brd-primary--focus g-brd-gray-light-v4 rounded-3 g-py-13 g-px-15">
+                        </div>
+
+                    </div>
+                </div>
+
+
+
+                <div class="form-group">
+                    <label for="phone">Phone to call you back <sup class="g-color-red">*</sup></label>
+                    <input
+                            type="text" name="phone" id="phone"
+                            class="form-control g-color-gray-dark-v5 g-bg-white g-bg-white--focus g-brd-primary--focus g-brd-gray-light-v4 rounded-3 g-py-13 g-px-15">
+                </div>
+                <div class="form-group"><label for="comment">Comment</label><textarea name="comment"
+                                                                                      id="comment"
+                                                                                      class="form-control g-color-gray-dark-v5 g-bg-white g-bg-white--focus g-brd-primary--focus g-brd-gray-light-v4 rounded-3 g-py-13 g-px-15"
+                                                                                      cols="30"
+                                                                                      rows="3"></textarea>
+                </div>
+                <div class="actions"><input type="submit" class="btn btn-lg u-btn-primary g-font-weight-600 g-font-size-default rounded-3 text-uppercase g-py-15 g-px-30" id="contact-form-button"
+                                            value="Send Message">
+                </div>
+                <div class="form-result"></div>
+            </form>
 			  <!-- End Contact Form -->
 		</div>
 
