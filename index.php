@@ -2,7 +2,7 @@
 
 
       <!-- Promo Block -->
-      <section class="g-bg-cover g-bg-pos-top-center g-bg-img-hero g-bg-black-opacity-0_3--after g-min-height-100vh g-flex-centered g-py-100" style="background-image: url(assets/img-temp/1920x1080/img5.jpg);">
+      <section class="g-bg-cover g-bg-pos-top-center g-bg-img-hero g-bg-black-opacity-0_3--after g-min-height-100vh g-flex-centered g-py-100" style="background-image: url(assets/sc/bg.jpg);">
         <div class="container g-color-white text-center g-z-index-1">
           <div class="mb-5">
 			<h2 class="g-font-size-40 g-font-size-50--md">We help fashion business' to</h2>
