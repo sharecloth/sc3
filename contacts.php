@@ -151,7 +151,7 @@
             </form>
 			  <!-- End Contact Form -->
 		</div>
-
+		<!-- Our office -->
         <div class="col-lg-5 offset-lg-1 g-bg-gray-dark-v1">
           <div class="g-pa-50 g-pa-70--md">
             <h2 class="h2 g-color-white">Our office</h2>
@@ -205,6 +205,7 @@
             <!-- End Contact Details -->
           </div>
         </div>
+		<!-- End Our office -->
       </div>
     </section>
     <!-- End Contacts -->

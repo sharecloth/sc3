@@ -16,32 +16,33 @@
             <!-- Footer Content -->
             <div class="col-lg-3 col-md-6 g-mb-40 g-mb-0--lg">
                 <div class="u-heading-v2-3--bottom g-brd-white-opacity-0_8 g-mb-20">
-                    <h2 class="u-heading-v2__title h6 text-uppercase mb-0">Latest Posts</h2>
+                    <h2 class="u-heading-v2__title h6 text-uppercase mb-0">Latest blogposts</h2>
                 </div>
 
                 <article>
                     <h3 class="h6 g-mb-2">
-                        <a class="g-color-white-opacity-0_8 g-color-white--hover" href="#!">Incredible template</a>
+                        <a class="g-color-white-opacity-0_8 g-color-white--hover" href="https://medium.com/@sharecloth/digital-brand-experience-is-the-fashion-business-new-black-cc474a3ff7b5">Digital brand experience is the fashion business’ new black</a>
                     </h3>
-                    <div class="small g-color-white-opacity-0_6">May 8, 2017</div>
+                    <div class="small g-color-white-opacity-0_6">Oct 23, 2017</div>
                 </article>
 
                 <hr class="g-brd-white-opacity-0_1 g-my-10">
 
                 <article>
                     <h3 class="h6 g-mb-2">
-                        <a class="g-color-white-opacity-0_8 g-color-white--hover" href="#!">New features</a>
+                        <a class="g-color-white-opacity-0_8 g-color-white--hover" href="https://medium.com/@sharecloth/q-a-with-sharecloth-ceo-cda7bac1eb82">Q&amp;A with ShareCloth’ CEO</a>
                     </h3>
-                    <div class="small g-color-white-opacity-0_6">June 23, 2017</div>
+                    <div class="small g-color-white-opacity-0_6">Oct 10, 2017</div>
                 </article>
 
                 <hr class="g-brd-white-opacity-0_1 g-my-10">
 
                 <article>
                     <h3 class="h6 g-mb-2">
-                        <a class="g-color-white-opacity-0_8 g-color-white--hover" href="#!">New terms and conditions</a>
+                        <a class="g-color-white-opacity-0_8 g-color-white--hover" href="https://medium.com/@sharecloth/introducing-3d-retail-b6bb19915489">Introducing 3D retail
+						</a>
                     </h3>
-                    <div class="small g-color-white-opacity-0_6">September 15, 2017</div>
+                    <div class="small g-color-white-opacity-0_6">Oct 9, 2017</div>
                 </article>
             </div>
             <!-- End Footer Content -->
@@ -86,7 +87,7 @@
 						</li>
   						<li class="g-pos-rel g-py-10">
                             <h4 class="h6 g-pr-20 mb-0">
-                                <a class="g-color-white-opacity-0_8 g-color-white--hover" href="#!">Contact Us</a>
+                                <a class="g-color-white-opacity-0_8 g-color-white--hover" href="/contacts.php">Contact Us</a>
                                 <i class="fa fa-angle-right g-absolute-centered--y g-right-0"></i>
                             </h4>
                         </li>
