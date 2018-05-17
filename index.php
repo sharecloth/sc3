@@ -2,17 +2,17 @@
 
 
       <!-- Promo Block -->
-      <section class="g-bg-cover g-bg-pos-top-center g-bg-img-hero g-bg-black-opacity-0_3--after g-min-height-100vh g-flex-centered g-py-100" style="background-image: url(assets/sc/bg3.jpg); background-position-y: 10%">
+      <section class="g-bg-cover g-bg-pos-top-center g-bg-img-hero g-bg-black-opacity-0_3--after g-min-height-100vh g-flex-centered g-py-100" style="background-image: url(assets/sc/bg4.jpg); background-position-y: 10%">
         <div class="container g-color-white text-center g-z-index-1">
           <div class="mb-5">
-			<h2 class="g-font-size-40 g-font-size-50--md">We help fashion business' to</h2>
+			<h2 class="g-font-size-40 g-font-size-50--md">We help fashion business to</h2>
             <h2 class="g-font-weight-700 g-font-size-40 g-font-size-50--md g-mb-30">
               <span class="u-text-animation u-text-animation--typing"></span>
             </h2>
             <p class="g-font-size-24">By using branded cloud-based solution <br>for on-demand fashion business</p>
           </div>
 
-          <a class="js-go-to btn u-btn-outline-white g-color-white g-bg-white-opacity-0_1 g-color-black--hover g-bg-white--hover g-font-weight-600 text-uppercase g-rounded-50 g-px-30 g-py-13" href="#!" data-target="#content">Get Started</a>
+          <!--<a class="js-go-to btn u-btn-outline-white g-color-white g-bg-white-opacity-0_1 g-color-black--hover g-bg-white--hover g-font-weight-600 text-uppercase g-rounded-50 g-px-30 g-py-13" href="#!" data-target="#content">Get Started</a> -->
         </div>
       </section>
       <!-- End Promo Block -->
@@ -26,10 +26,10 @@
 	            <!-- Heading -->
 	            <div class="text-center text-lg-left g-mb-60">
 	              <div class="g-mb-30">
-	                <h2 class="h1 g-color-black g-font-weight-600 g-mb-35">Revolutionising <span class="g-color-primary">fashion <br> business</span></h2>
-	                <p class="g-font-size-17"><strong>ShareCloth</strong> introduces complex cloud-based solution to empower garment on-demand production for fashion online retail: from order to delivery</p>
+	                <h2 class="h1 g-color-black g-font-weight-600 g-mb-35">Revolution of <br> <span class="g-color-primary">fashion </span></h2>
+	                <p class="g-font-size-17"><strong>ShareCloth</strong> presents an integrated cloud-based solution to empower on-demand production for fashion business, covering all stages from the order to delivery</p>
 	              </div>
-	              <a class="btn btn-md u-btn-primary g-font-weight-600 g-font-size-12 g-rounded-25 text-uppercase g-px-30 g-py-13" href="#!">Read More</a>
+	              <!--<a class="btn btn-md u-btn-primary g-font-weight-600 g-font-size-12 g-rounded-25 text-uppercase g-px-30 g-py-13 disabled" href="#!">Soon</a>-->
 	            </div>
 	            <!-- End Heading -->
 	          </div>
@@ -43,7 +43,7 @@
 	                  <i class="icon-transport-017 u-line-icon-pro"></i>
 	                </span>
 	                <h3 class="h5 g-color-black g-font-weight-600 mb-2">Speed</h3>
-	                <p class="mb-0">to swap retail and manufacturing steps by digitising supply chain</p>
+	                <p class="mb-0">optimize retail and manufacturing by digitizing supply chain</p>
 	                <!-- End Icon Blocks -->
 	              </div>
 
@@ -52,8 +52,8 @@
 	                <span class="d-inline-block g-color-primary g-font-size-30 g-rounded-5 mb-2">
 	                  <i class="icon-real-estate-032 u-line-icon-pro"></i>
 	                </span>
-	                <h3 class="h5 g-color-black g-font-weight-600 mb-2">Risks</h3>
-	                <p class="mb-0">sell before the manufacturing</p>
+	                <h3 class="h5 g-color-black g-font-weight-600 mb-2">Guarantees</h3>
+	                <p class="mb-0">reduce capital turnover time and risks by selling first and producing later</p>
 	                <!-- End Icon Blocks -->
 	              </div>
 
@@ -63,7 +63,7 @@
 	                  <i class="icon-real-estate-048 u-line-icon-pro"></i>
 	                </span>
 	                <h3 class="h5 g-color-black g-font-weight-600 mb-2">Localization</h3>
-	                <p class="mb-0">implementing on-demand business approach</p>
+	                <p class="mb-0">implement on-demand business approach in your country</p>
 	                <!-- End Icon Blocks -->
 	              </div>
 
@@ -73,7 +73,7 @@
 	                  <i class="icon-finance-198 u-line-icon-pro"></i>
 	                </span>
 	                <h3 class="h5 g-color-black g-font-weight-600 mb-2">Sustainability</h3>
-	                <p class="mb-0">be assured in the size fitting before production</p>
+	                <p class="mb-0">always produce the right sizes with the help of precise virtual fit validation</p>
 	                <!-- End Icon Blocks -->
 	              </div>
 	            </div>
@@ -91,8 +91,7 @@
 	  <div class="container g-pt-100">
 	      <div class="row justify-content-center g-mb-100">
 	        <div class="col-lg-5">
-	          <h2 class="g-color-black g-font-weight-600 mb-0">We help online apparel retail to sell before the manufacturing to <span class="d-inline-block g-brd-bottom g-brd-2 g-brd-primary g-color-primary">overcome</span> fashion business’ traditional risks
-	            </h2>
+	          <h2 class="g-color-black g-font-weight-600 mb-0">We help online apparel retail to sell before manufacturing to <span class="d-inline-block g-brd-bottom g-brd-2 g-brd-primary g-color-primary">overcome</span> the fashion business’ traditional risks</h2>
 	        </div>
 	      	<div class="col-lg-7">
 				<img class="img-fluid w-100" src="./assets/sc/on-demand.png" alt="On-demand scheme" />
@@ -138,10 +137,10 @@
                         <i class="icon-clothes-093 u-line-icon-pro"></i>
                       </span>
                       <h3 class="h5 g-color-black g-font-weight-600 mb-3">Develop the design <br />&nbsp;</h3>
-                      <p>Your style – your rules: We don't dictate creative rules or retail channel to use</p>
+                      <p>Your style – your rules: We won’t tell you what creative rules or retail channels to use</p>
                     </div>
-                    <a class="g-brd-bottom g-brd-gray-dark-v5 g-brd-primary--hover g-color-gray-dark-v5 g-color-primary--hover g-font-weight-600 g-font-size-12 text-uppercase g-text-underline--none--hover"
-                       href="#!">Read more</a>
+                    <!--<a class="g-brd-bottom g-brd-gray-dark-v5 g-brd-primary--hover g-color-gray-dark-v5 g-color-primary--hover g-font-weight-600 g-font-size-12 text-uppercase g-text-underline--none--hover"
+                       href="#!">Read more</a> -->
                   </div>
                   <!-- End Icon Blocks -->
                 </div>
@@ -155,10 +154,10 @@
                         <i class="icon-travel-121 u-line-icon-pro"></i>
                       </span>
                       <h3 class="h5 g-color-black g-font-weight-600 mb-3">Import into ShareCloth <br />&nbsp;</h3>
-                      <p>Once the style is ready for manufacturing: import all the data into the ShareCloth</p>
+                      <p>Once the style is ready for manufacturing: import all the data into the platform</p>
                     </div>
-                    <a class="g-brd-bottom g-brd-gray-dark-v5 g-brd-primary--hover g-color-gray-dark-v5 g-color-primary--hover g-font-weight-600 g-font-size-12 text-uppercase g-text-underline--none--hover"
-                       href="#!">Read more</a>
+                    <!--<a class="g-brd-bottom g-brd-gray-dark-v5 g-brd-primary--hover g-color-gray-dark-v5 g-color-primary--hover g-font-weight-600 g-font-size-12 text-uppercase g-text-underline--none--hover"
+                       href="#!">Read more</a>-->
                   </div>
                   <!-- End Icon Blocks -->
                 </div>
@@ -171,11 +170,9 @@
                       <span class="u-icon-v3 u-shadow-v19 g-bg-white g-color-primary rounded-circle mb-4">
                         <i class="icon-medical-046 u-line-icon-pro"></i>
                       </span>
-                      <h3 class="h5 g-color-black g-font-weight-600 mb-3">Get fitted customized order on retail platform </h3>
-                      <p>Using plenty of options add seamless interface to your website or mobile app</p>
+                      <h3 class="h5 g-color-black g-font-weight-600 mb-3">Get a customized order <br />&nbsp;</h3>
+                      <p>Accept orders on your website or app by using plenty of options for our seamless interface</p>
                     </div>
-                    <a class="g-brd-bottom g-brd-gray-dark-v5 g-brd-primary--hover g-color-gray-dark-v5 g-color-primary--hover g-font-weight-600 g-font-size-12 text-uppercase g-text-underline--none--hover"
-                       href="#!">Read more</a>
                   </div>
                   <!-- End Icon Blocks -->
                 </div>
@@ -188,12 +185,10 @@
                       <span class="u-icon-v3 u-shadow-v19 g-bg-white g-color-primary rounded-circle mb-4">
                         <i class="icon-finance-144 u-line-icon-pro"></i>
                       </span>
-                      <h3 class="h5 g-color-black g-font-weight-600 mb-3">Send techpack into production 
+                      <h3 class="h5 g-color-black g-font-weight-600 mb-3">Produce the order<br />&nbsp;
 					</h3>
-                      <p>Once order is made, the platform will place the adjusted order to the dedicated manufacturer</p>
+                      <p>Once the model is fitted and payed, the platform place the order to the manufacturer</p>
                     </div>
-                    <a class="g-brd-bottom g-brd-gray-dark-v5 g-brd-primary--hover g-color-gray-dark-v5 g-color-primary--hover g-font-weight-600 g-font-size-12 text-uppercase g-text-underline--none--hover"
-                       href="#!">Read more</a>
                   </div>
                   <!-- End Icon Blocks -->
 				</div>
@@ -206,12 +201,10 @@
                       <span class="u-icon-v3 u-shadow-v19 g-bg-white g-color-primary rounded-circle mb-4">
                         <i class="icon-hotel-restaurant-103 u-line-icon-pro"></i>
                       </span>
-                      <h3 class="h5 g-color-black g-font-weight-600 mb-3">Deliver 
+                      <h3 class="h5 g-color-black g-font-weight-600 mb-3">Deliver <br />&nbsp; 
 					</h3>
-                      <p>Connect as many parcel services as you need to provide fast delivery from the manufacturer to the customer</p>
+                      <p>Connect as many parcel services as you need to provide fast on-demand delivery</p>
                     </div>
-                    <a class="g-brd-bottom g-brd-gray-dark-v5 g-brd-primary--hover g-color-gray-dark-v5 g-color-primary--hover g-font-weight-600 g-font-size-12 text-uppercase g-text-underline--none--hover"
-                       href="#!">Read more</a>
                   </div>
                   <!-- End Icon Blocks -->
 				</div>
@@ -232,7 +225,7 @@
           <div class="u-heading-v2-3--bottom g-brd-primary g-mb-20">
             <h2 class="h3 u-heading-v2__title g-color-gray-dark-v2 text-uppercase g-font-weight-600">Solutions</h2>
           </div>
-          <p class="lead">Push your apparel online retail into the new horizons of flexibility and personalization</p>
+          <p class="lead">Push your business towards the new horizons of flexibility and customization</p>
         </header>
 
         <div class="row">
@@ -243,8 +236,8 @@
                   <i class="icon-real-estate-003 u-line-icon-pro"></i>
                 </span>
               <h3 class="h4 g-color-gray-dark-v2 g-mb-10">For small and medium business</h3>
-              <p class="g-mb-15">Release collections faster, build transparent digital relationships with the manufacturer and keep fabric unused before the order being paid</p>
-              <a class="g-font-size-12 text-uppercase g-font-weight-600" href="#!">Read More</a>
+              <p class="g-mb-15">Release collections faster, build transparent digital relationships with the manufacturers and keep your resources in stand-by mode until the order is paid</p>
+              <!--<a class="g-font-size-12 text-uppercase g-font-weight-600" href="#!">Read More</a>-->
             </div>
             <!-- End Icon Blocks -->
           </div>
@@ -256,8 +249,7 @@
                   <i class="icon-real-estate-066 u-line-icon-pro"></i>
                 </span>
               <h3 class="h4 g-color-gray-dark-v2 g-mb-10">For enterprise business</h3>
-              <p class="g-mb-15">Build the new level of loyalty and personalization by offering styles' on-demand customization to your best customers</p>
-              <a class="g-font-size-12 text-uppercase g-font-weight-600" href="#!">Read More</a>
+              <p class="g-mb-15">Build new level of customer loyalty and trust by offering on-demand customization</p><br>
             </div>
             <!-- End Icon Blocks -->
           </div>
@@ -280,7 +272,7 @@
                 <div class="g-mb-20">
                   <h2 class="g-color-black g-font-weight-600 g-font-size-25 g-font-size-35--lg g-line-height-1_2 mb-4">	Fit. Indeed.
                   </h2>
-                  <p class="g-font-size-16">We invited forty girls to order a dress within the new shopping experience and the on-demand model. <br> Learn about the speed, transparency and efficiency in our first case-study.</p>
+                  <p class="g-font-size-16">We invited forty young women to order a dress using our new shopping experience and on-demand model. Learn about the speed, transparency and efficiency in our first case study.</p>
 					<div class="row text-center">
 				          <div class="col-lg-3 col-sm-6 g-mb-50">
 				            <div class="js-counter g-color-primary g-font-weight-600 g-font-size-30">1</div>
@@ -302,8 +294,8 @@
 				            <h4 class="h4 g-color-gray-dark-v2">days</h4>
 				          </div>
 					</div>
-					<a class="btn u-btn-primary g-brd-2 g-brd-white g-font-size-13 g-rounded-50 g-pl-20 g-pr-15 g-py-9" href="#!">
-                  Learn more
+					<a class="btn u-btn-primary g-brd-2 g-brd-white g-font-size-13 g-rounded-50 g-pl-20 g-pr-15 g-py-9 disabled" href="#!">
+                  Soon
                   <span class="align-middle u-icon-v3 g-width-16 g-height-16 g-color-black g-bg-white g-font-size-11 rounded-circle ml-3">
                     <i class="fa fa-angle-right"></i>
                   </span>
@@ -323,7 +315,7 @@
           <div class="col-sm-10 col-md-7 col-lg-5">
             <div class="text-center g-mb-50">
               <h2 class="g-color-black g-font-weight-600 mb-3">Newsletter</h2>
-              <p>Subscribe to our newsletter for the latest news, promotions and deals.</p>
+              <p>Subscribe to our newsletter for the latest news, events and market insides</p>
             </div>
 
               <form class="subscribe-form">

@@ -8,7 +8,8 @@
                     <h2 class="u-heading-v2__title h6 text-uppercase mb-0">About Us</h2>
                 </div>
 
-                <p>About Unify dolor sit amet, consectetur adipiscing elit. Maecenas eget nisl id libero tincidunt sodales.</p>
+                <p>ShareCloth is a cloud-based solution that directly connects retail and manufacturing, which allows retail or a vertical brand to manufacture the garments after the purchase is made.
+				</p>
             </div>
             <!-- End Footer Content -->
 
@@ -48,36 +49,42 @@
             <!-- Footer Content -->
             <div class="col-lg-3 col-md-6 g-mb-40 g-mb-0--lg">
                 <div class="u-heading-v2-3--bottom g-brd-white-opacity-0_8 g-mb-20">
-                    <h2 class="u-heading-v2__title h6 text-uppercase mb-0">Useful Links</h2>
+                    <h2 class="u-heading-v2__title h6 text-uppercase mb-0">Social media</h2>
                 </div>
 
                 <nav class="text-uppercase1">
                     <ul class="list-unstyled g-mt-minus-10 mb-0">
                         <li class="g-pos-rel g-brd-bottom g-brd-white-opacity-0_1 g-py-10">
                             <h4 class="h6 g-pr-20 mb-0">
-                                <a class="g-color-white-opacity-0_8 g-color-white--hover" href="#!">About Us</a>
-                                <i class="fa fa-angle-right g-absolute-centered--y g-right-0"></i>
+                                <a class="g-color-white-opacity-0_8 g-color-white--hover" href="https://facebook.com/shareclothcom" target="_blank">Facebook</a>
+                                <i class="fa fa-external-link g-absolute-centered--y g-right-0"></i>
                             </h4>
                         </li>
-                        <li class="g-pos-rel g-brd-bottom g-brd-white-opacity-0_1 g-py-10">
-                            <h4 class="h6 g-pr-20 mb-0">
-                                <a class="g-color-white-opacity-0_8 g-color-white--hover" href="#!">Portfolio</a>
-                                <i class="fa fa-angle-right g-absolute-centered--y g-right-0"></i>
-                            </h4>
-                        </li>
-                        <li class="g-pos-rel g-brd-bottom g-brd-white-opacity-0_1 g-py-10">
-                            <h4 class="h6 g-pr-20 mb-0">
-                                <a class="g-color-white-opacity-0_8 g-color-white--hover" href="#!">Our Services</a>
-                                <i class="fa fa-angle-right g-absolute-centered--y g-right-0"></i>
-                            </h4>
-                        </li>
-                        <li class="g-pos-rel g-brd-bottom g-brd-white-opacity-0_1 g-py-10">
-                            <h4 class="h6 g-pr-20 mb-0">
-                                <a class="g-color-white-opacity-0_8 g-color-white--hover" href="#!">Latest Jobs</a>
-                                <i class="fa fa-angle-right g-absolute-centered--y g-right-0"></i>
-                            </h4>
-                        </li>
-                        <li class="g-pos-rel g-py-10">
+						<li class="g-pos-rel g-brd-bottom g-brd-white-opacity-0_1 g-py-10">
+							<h4 class="h6 g-pr-20 mb-0">
+								<a class="g-color-white-opacity-0_8 g-color-white--hover" href="https://twitter.com/sharecloth" target="_blank">Twitter</a>
+								<i class="fa fa-external-link g-absolute-centered--y g-right-0"></i>
+							</h4>
+						</li>
+						<li class="g-pos-rel g-brd-bottom g-brd-white-opacity-0_1 g-py-10">
+							<h4 class="h6 g-pr-20 mb-0">
+								<a class="g-color-white-opacity-0_8 g-color-white--hover" href="https://medium.com/@sharecloth" target="_blank">Medium</a>
+								<i class="fa fa-external-link g-absolute-centered--y g-right-0"></i>
+							</h4>
+						</li>
+						<li class="g-pos-rel g-brd-bottom g-brd-white-opacity-0_1 g-py-10">
+							<h4 class="h6 g-pr-20 mb-0">
+								<a class="g-color-white-opacity-0_8 g-color-white--hover" href="https://www.youtube.com/channel/UC2ZTjdI7UTgiPTKFmCvivjg" target="_blank">Youtube</a>
+								<i class="fa fa-external-link g-absolute-centered--y g-right-0"></i>
+							</h4>
+						</li>
+						<li class="g-pos-rel g-brd-bottom g-brd-white-opacity-0_1 g-py-10">
+							<h4 class="h6 g-pr-20 mb-0">
+								<a class="g-color-white-opacity-0_8 g-color-white--hover" href="https://www.instagram.com/sharecloth/" target="_blank">Instagram</a>
+								<i class="fa fa-external-link g-absolute-centered--y g-right-0"></i>
+							</h4>
+						</li>
+  						<li class="g-pos-rel g-py-10">
                             <h4 class="h6 g-pr-20 mb-0">
                                 <a class="g-color-white-opacity-0_8 g-color-white--hover" href="#!">Contact Us</a>
                                 <i class="fa fa-angle-right g-absolute-centered--y g-right-0"></i>
@@ -87,7 +94,7 @@
                 </nav>
             </div>
             <!-- End Footer Content -->
-
+			
             <!-- Footer Content -->
             <div class="col-lg-3 col-md-6">
                 <div class="u-heading-v2-3--bottom g-brd-white-opacity-0_8 g-mb-20">
