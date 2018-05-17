@@ -151,61 +151,6 @@
             </form>
 			  <!-- End Contact Form -->
 		</div>
-		<!-- Our office -->
-        <div class="col-lg-5 offset-lg-1 g-bg-gray-dark-v1">
-          <div class="g-pa-50 g-pa-70--md">
-            <h2 class="h2 g-color-white">Our office</h2>
-
-            <!-- Contact Details -->
-            <ul class="list-unstyled g-color-white-opacity-0_7 g-font-weight-300 g-font-size-13 g-line-height-1_8 mb-0">
-              <li class="g-my-30">
-                <div class="media">
-                  <i class="d-flex g-color-primary g-font-size-20 mt-1 mr-4 icon-hotel-restaurant-235 u-line-icon-pro"></i>
-                  <div class="media-body">
-                    New York,
-                    <br>Unit 25 Suite 3, 925 Prospect PI
-                  </div>
-                </div>
-              </li>
-              <li class="g-my-30">
-                <div class="media">
-                  <i class="d-flex g-color-primary g-font-size-20 mt-1 mr-4 icon-communication-062 u-line-icon-pro"></i>
-                  <div class="media-body">
-                    info@gmail.com
-                  </div>
-                </div>
-              </li>
-              <li class="g-my-30">
-                <div class="media">
-                  <i class="d-flex g-color-primary g-font-size-20 mt-1 mr-4 icon-communication-033 u-line-icon-pro"></i>
-                  <div class="media-body">
-                    +32 333 444 555
-                  </div>
-                </div>
-              </li>
-              <li>
-                <div class="media">
-                  <i class="d-flex g-color-primary g-font-size-20 mt-1 mr-4 icon-education-097 u-line-icon-pro"></i>
-                  <div class="media-body">
-                    <h2 class="g-color-white-opacity-0_9 g-font-size-default g-font-weight-600 text-uppercase mb-3">Office hours:</h2>
-                    <div class="mb-3">
-                      <span class="d-block g-color-white">Monday - Firday</span>
-                      09:00 AM - 06:00 PM
-                    </div>
-                    <div class="mb-3">
-                      <span class="d-block g-color-white">Saturday</span>
-                      12:00 AM - 03:00 PM
-                    </div>
-                    <span class="d-block g-color-white">Sunday &amp; Holidays</span>
-                    Closed
-                  </div>
-                </div>
-              </li>
-            </ul>
-            <!-- End Contact Details -->
-          </div>
-        </div>
-		<!-- End Our office -->
       </div>
     </section>
     <!-- End Contacts -->
