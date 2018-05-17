@@ -30,8 +30,28 @@
 		      <span class="u-icon-v1 u-icon-size--xl g-color-black g-mb-10">
 		          <i class="icon-real-estate-027 u-line-icon-pro"></i>
 		        </span>
-		      <h4 class="h5 g-font-weight-600 g-mb-5">Chat now</h4>
-		      <span class="d-block"><a id="support_chat" onclick="Chatra('show'); Chatra('openChat', true)" href="#">Open chat</a>
+                <h4>Online support chat</h4>
+
+                <!-- Chatra {literal} -->
+                <script>
+                    window.ChatraSetup = {
+                        startHidden: true
+                    };
+
+                    (function(d, w, c) {
+                        w.ChatraID = 'R2NDg9B8Tmo5E4uZd';
+                        var s = d.createElement('script');
+                        w[c] = w[c] || function() {
+                            (w[c].q = w[c].q || []).push(arguments);
+                        };
+                        s.async = true;
+                        s.src = (d.location.protocol === 'https:' ? 'https:': 'http:')
+                            + '//call.chatra.io/chatra.js';
+                        if (d.head) d.head.appendChild(s);
+                    })(document, window, 'Chatra');
+                </script>
+                <!-- /Chatra {/literal} -->
+		      <span class="d-block"><a id="support_chat" onclick="Chatra('show'); Chatra('openChat', true); return false;" href="#">Open chat</a>
 		    </div>
 		    <!-- End Icon Blocks -->
 		  </div>
