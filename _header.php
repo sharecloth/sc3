@@ -9,6 +9,7 @@
             <nav class="js-mega-menu navbar navbar-expand-lg hs-menu-initialized hs-menu-horizontal">
                 <div class="container">
                     <!-- Responsive Toggle Button -->
+                    <!-- @sergeym - раскоменть потом для меню для мобилок
                     <button class="navbar-toggler navbar-toggler-right btn g-line-height-1 g-brd-none g-pa-0 g-pos-abs g-top-3 g-right-0"
                             type="button" aria-label="Toggle navigation" aria-expanded="false" aria-controls="navBar"
                             data-toggle="collapse" data-target="#navBar">
@@ -18,11 +19,12 @@
               </span>
               </span>
                     </button>
+                    -->
                     <!-- End Responsive Toggle Button -->
 
                     <!-- Logo -->
                     <a href="/" class="navbar-brand">
-                        <img src="assets/sc/logo3.png" alt="ShareCloth Logo">
+                        <img src="assets/sc/logo3-1.png" alt="ShareCloth">
                     </a>
                     <!-- End Logo -->
 

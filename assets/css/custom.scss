@@ -1,0 +1,31 @@
+/* Add here all your css styles (customizations) */
+
+.form-result {
+    margin-top: 30px;
+}
+
+.form-result p {
+    margin: 0;
+}
+
+.error-message {
+    color: red;
+}
+
+.success-message {
+    display: block;
+    color: #06af28;
+    font-size: 18px;
+}
+
+
+.navbar-brand {
+    padding-top: .3125rem;
+    padding-bottom: .125rem;
+
+    @media (min-width: 768px) {
+        margin-top: -20px;
+        margin-bottom: -20px;
+        padding-bottom: .3125rem;
+    }
+}
