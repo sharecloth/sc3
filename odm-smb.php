@@ -8,15 +8,15 @@
 
     <!-- Promo Block Content -->
     <div class="container g-color-white text-center g-py-150">
-      <h2 class="h3 text-uppercase mb-2">ShareCloth' solution</h2>
-      <p class="g-font-weight-600 g-font-size-40 text-uppercase">Produce your collection on-demand</p>
+      <h2 class="h3 text-uppercase mb-2">The platform for the next generation of</h2>
+      <p class="g-font-weight-600 g-font-size-40 text-uppercase">digital smart fashion retail</p>
     </div>
     <!-- Promo Block Content -->
   </section>
   <!-- End Promo Block -->
 
   <!-- Icon Blocks v13 -->
-  <section class="container g-pt-100 g-pb-70">
+  <section class="container g-pt-100 g-pb-50">
     <!-- Icon Blocks -->
     <div class="row">
       <div class="col-lg-4 g-mb-30">
@@ -29,8 +29,7 @@
           </div>
           <div class="media-body">
             <h3 class="h5 g-color-black mb-20">Drop less</h3>
-            <p class="g-color-gray-dark-v4">We strive to embrace and drive change in our industry which allows us to keep our clients relevant.</p>
-            <a class="g-font-size-12 g-text-underline--none--hover text-uppercase" href="#!">Learn More</a>
+            <p class="g-color-gray-dark-v4">Focus on creating and presenting smaller collections more often by switching from mass- to on-demand production</p>
           </div>
         </div>
         <!-- End Icon Blocks -->
@@ -46,8 +45,7 @@
           </div>
           <div class="media-body">
             <h3 class="h5 g-color-black mb-20">Change faster</h3>
-            <p class="g-color-gray-dark-v4">We strive to embrace and drive change in our industry which allows us to keep our clients relevant.</p>
-            <a class="g-font-size-12 g-text-underline--none--hover text-uppercase" href="#!">Learn More</a>
+            <p class="g-color-gray-dark-v4">React on trends and inspiration day-to-day having no needs to sell off the leftovers</p>
           </div>
         </div>
         <!-- End Icon Blocks -->
@@ -63,8 +61,7 @@
           </div>
           <div class="media-body">
             <h3 class="h5 g-color-black mb-20">Reduce risks</h3>
-            <p class="g-color-gray-dark-v4">We strive to embrace and drive change in our industry which allows us to keep our clients relevant.</p>
-            <a class="g-font-size-12 g-text-underline--none--hover text-uppercase" href="#!">Learn More</a>
+            <p class="g-color-gray-dark-v4">Keep the fabric untouched until the order was paid, re-use fabric for new styles</p>
           </div>
         </div>
         <!-- End Icon Blocks -->
@@ -74,9 +71,70 @@
   </section>
   <!-- End Icon Blocks v13 -->
 
-  <section class="g-bg-secondary">
+  <!-- PRODUCT Block -->
+	<section class="u-ns-bg-v1-bottom g-bg-secondary g-pt-100 g-pb-70">
+    	<div class="container">
+	  		<div class="row justify-content-center g-mb-60">
+				<div class="col-lg-7">
+	          	<!-- Heading -->
+		          <div class="text-center mb-4">
+		            <h2 class="h3 text-uppercase mb-3">ShareCloth on-demand</h2>
+		            <div class="d-inline-block g-width-60 g-height-1 g-bg-black mb-2"></div>
+		            <p class="lead mb-0">A complex cloud-based solution that directly connects retail and manufacturing, which allows retail or a vertical brand to manufacture the garments after the purchase is made</p>
+		          </div>
+		          <!-- End Heading -->
+	        	</div>
+	      	</div>
+
+	      	<!-- Icon Blocks -->
+	      	<div class="row container">
+	        	<div class="col-md-4 g-mb-30">
+		          <!-- Icon Blocks -->
+		          <div class="g-brd-around--md g-brd-gray-light-v4 text-center">
+			        <span class="d-block g-color-gray-dark-v4 g-font-size-40 g-mb-15">
+						<img class="img-fluid" src="../../assets/img-temp/400x270/img13.jpg" alt="Image description">
+		            </span>
+					<div class="g-pa-10 g-px-30--lg g-py-40--lg">
+			            <h3 class="h5 g-color-black g-mb-10">The style digitizing</h3>
+			            <p class="g-color-gray-dark-v4">Our software and private cloud helps to prepare, store and manage the digital assets of the style for further use</p>
+					</div>
+		          </div>
+		          <!-- End Icon Blocks -->
+	        	</div>
+	        	<div class="col-md-4 g-mb-30">
+		          <!-- Icon Blocks -->
+		          <div class="g-brd-around--md g-brd-gray-light-v4 text-center">
+			        <span class="d-block g-color-gray-dark-v4 g-font-size-40 g-mb-15">
+						<img class="img-fluid" src="../../assets/img-temp/400x270/img13.jpg" alt="Image description">
+		            </span>
+					<div class="g-pa-10 g-px-30--lg g-py-40--lg">
+			            <h3 class="h5 g-color-black g-mb-10">Web-site or app integration</h3>
+			            <p class="g-color-gray-dark-v4">Easily integrate ShareCloth' solution to your site or app to enable your customers ordering customized styles</p>
+					</div>
+		          </div>
+		          <!-- End Icon Blocks -->
+	        </div>
+	        	<div class="col-md-4 g-mb-30">
+		          <!-- Icon Blocks -->
+		          <div class="g-brd-around--md g-brd-gray-light-v4 text-center">
+			        <span class="d-block g-color-gray-dark-v4 g-font-size-40 g-mb-15">
+						<img class="img-fluid" src="../../assets/img-temp/400x270/img13.jpg" alt="Image description">
+		            </span>
+					<div class="g-pa-10 g-px-30--lg g-py-40--lg">
+			            <h3 class="h5 g-color-black g-mb-10">Manufacturing integration</h3>
+			            <p class="g-color-gray-dark-v4">Invite your manufacturer or find a new one to execute make-to-order with the help of ShareCloth' solution</p>
+					</div>
+		          </div>
+		          <!-- End Icon Blocks -->
+	        	</div>
+	      	</div>
+	      	<!-- End Icon Blocks -->
+		</div>
+	</section>
+
+  <section>
     <div class="container g-pt-100 g-pb-40">
-      <div class="row justify-content-center g-mb-60">
+      <div class="row justify-content-center g-mb-30">
         <div class="col-lg-7">
           <!-- Heading -->
           <div class="text-center">
@@ -87,7 +145,20 @@
           <!-- End Heading -->
         </div>
       </div>
-
+	  <div class="row justify-content-center g-mb-100">
+	  	<div class="col-lg-5 col-sm-10">
+			<div class="text-center">
+	  			<ul class="nav nav-pills nav-fill">
+			  <li class="nav-item">
+			    <a class="nav-link active" href="#">Brand's flow</a>
+			  </li>
+			  <li class="nav-item">
+			    <a class="nav-link" href="#">Consumer's flow</a>
+			  </li>
+			</ul>
+	  		</div>
+		</div>
+	  </div>
       <!-- Static Process -->
       <div class="row">
         <div class="col-sm-6 col-lg-3 g-mb-60">
@@ -96,8 +167,8 @@
             <i class="u-dot-line-v1-2 g-brd-transparent--before g-brd-gray-light-v2--after g-mb-20">
                 <span class="u-dot-line-v1__inner g-bg-white g-bg-primary--before g-brd-gray-light-v2"></span>
               </i>
-            <h3 class="h5 g-color-black mb-20">Consult</h3>
-            <p class="mb-0">This is where we sit down, grab a cup of coffee and dial in the details.</p>
+            <h3 class="h5 g-color-black mb-20">Digitize</h3>
+            <p class="mb-0">Import ready for production garment into ShareCloth using simply branded software</p>
           </div>
           <!-- End Static Process -->
         </div>
@@ -108,8 +179,8 @@
             <i class="u-dot-line-v1-2 g-brd-gray-light-v2--before g-brd-gray-light-v2--after g-mb-20">
                 <span class="u-dot-line-v1__inner g-bg-white g-bg-primary--before g-brd-gray-light-v2"></span>
               </i>
-            <h3 class="h5 g-color-black mb-20">Plan</h3>
-            <p class="mb-0">Now that we've aligned the details, it's time to get things organized.</p>
+            <h3 class="h5 g-color-black mb-20">Approve</h3>
+            <p class="mb-0">Assure the manufacturer accepted your garment within our system and ready to accept on-demand orders</p>
           </div>
           <!-- End Static Process -->
         </div>
@@ -120,8 +191,8 @@
             <i class="u-dot-line-v1-2 g-brd-gray-light-v2--before g-brd-gray-light-v2--after g-mb-20">
                 <span class="u-dot-line-v1__inner g-bg-white g-bg-primary--before g-brd-gray-light-v2"></span>
               </i>
-            <h3 class="h5 g-color-black mb-20">Create</h3>
-            <p class="mb-0">We begin to visualize your sketches and make them into beautiful pixels.</p>
+            <h3 class="h5 g-color-black mb-20">Sell</h3>
+            <p class="mb-0">Once style is ready for business, start selling online by pushing it online though the cloud</p>
           </div>
           <!-- End Static Process -->
         </div>
@@ -132,8 +203,8 @@
             <i class="u-dot-line-v1-2 g-brd-gray-light-v2--before g-brd-transparent--after g-mb-20">
                 <span class="u-dot-line-v1__inner g-bg-white g-bg-primary--before g-brd-gray-light-v2"></span>
               </i>
-            <h3 class="h5 g-color-black mb-20">Release</h3>
-            <p class="mb-0">Your brand is all dressed up and ready to party, it's time to release.</p>
+            <h3 class="h5 g-color-black mb-20">Deliver</h3>
+            <p class="mb-0">When garment is ordered, the solution will drive it though manufacturing for you to deliver it within days after the order</p>
           </div>
           <!-- End Static Process -->
         </div>
@@ -142,46 +213,6 @@
     </div>
   </section>
 
-  <!-- Section -->
-  <section class="container g-pt-100 g-pb-40">
-    <div class="row">
-      <div class="col-lg-6 align-self-center g-mb-60">
-        <img class="img-fluid" src="../../assets/img-temp/600x400/img1.png" alt="Image Description">
-      </div>
-
-      <div class="col-lg-6 align-self-center g-mb-60">
-        <div class="mb-2">
-          <h2 class="h3 g-color-black text-uppercase mb-2">We are creative agency</h2>
-          <div class="d-inline-block g-width-35 g-height-2 g-bg-primary mb-2"></div>
-        </div>
-        <div class="mb-5">
-          <p class="mb-5">We are an ambitious workaholic, but apart from that, pretty simple person. Whether it's branding, print, UI + UX I've got you covered.</p>
-
-          <ul class="list-unstyled g-font-size-13 mb-0">
-            <li>
-              <i class="d-inline-block g-color-primary mr-2 mb-3 fa fa-check"></i>
-              Jacks of all. experts in all.
-            </li>
-            <li>
-              <i class="d-inline-block g-color-primary mr-2 mb-3 fa fa-check"></i>
-              It's good to virtually meet you.
-            </li>
-            <li>
-              <i class="d-inline-block g-color-primary mr-2 mb-3 fa fa-check"></i>
-              A crew of creative doers.
-            </li>
-            <li>
-              <i class="d-inline-block g-color-primary mr-2 mb-3 fa fa-check"></i>
-              Let's create something great.
-            </li>
-          </ul>
-        </div>
-        <a class="btn btn-md u-btn-outline-black g-font-size-default g-rounded-50 g-py-10 mr-2" href="#!">Explore more</a>
-        <a class="btn btn-md u-btn-primary g-font-size-default g-rounded-50 g-py-10" href="#!">Purchase Now</a>
-      </div>
-    </div>
-  </section>
-  <!-- End Section -->
 
   <!-- Icon Blocks -->
   <section class="g-bg-secondary">
@@ -192,7 +223,7 @@
           <div class="text-center">
             <h2 class="h3 g-color-black text-uppercase mb-2">Our services</h2>
             <div class="d-inline-block g-width-35 g-height-2 g-bg-primary mb-2"></div>
-            <p class="lead mb-0">We are a creative person focusing on culture, luxury, editorial &amp; art. Somewhere between sophistication and simplicity.</p>
+            <p class="lead mb-0">Is your company small &amp; efficient? We provide extra services for hassle-free launch with no extra hires</p>
           </div>
           <!-- End Heading -->
         </div>
@@ -200,7 +231,7 @@
 
       <!-- Icon Blocks -->
       <div class="row">
-        <div class="col-lg-4 align-self-center g-mb-30">
+        <div class="col-lg-5 offset-lg-1 align-self-center g-mb-30">
           <!-- Icon Blocks -->
           <div class="media g-mb-30">
             <div class="d-flex mr-4">
@@ -209,8 +240,8 @@
               </span>
             </div>
             <div class="media-body">
-              <h3 class="h5 g-color-black mb-20">Creative ideas</h3>
-              <p class="g-color-gray-dark-v4">We strive to embrace and drive change in our industry which allows us to keep our clients relevant.</p>
+              <h3 class="h5 g-color-black mb-20">Product development</h3>
+              <p class="g-color-gray-dark-v4">To finalize your design into the ready to production style</p>
             </div>
           </div>
           <!-- End Icon Blocks -->
@@ -223,14 +254,14 @@
               </span>
             </div>
             <div class="media-body">
-              <h3 class="h5 g-color-black mb-20">Excellent features</h3>
-              <p class="g-color-gray-dark-v4">We strive to embrace and drive change in our industry which allows us to keep our clients relevant.</p>
+              <h3 class="h5 g-color-black mb-20">Product digitizing</h3>
+              <p class="g-color-gray-dark-v4">To import your ready-made styles to the platform</p>
             </div>
           </div>
           <!-- End Icon Blocks -->
         </div>
 
-        <div class="col-lg-4 align-self-center g-mb-30">
+        <div class="col-lg-6 align-self-center g-mb-30">
           <!-- Icon Blocks -->
           <div class="media g-mb-30">
             <div class="d-flex mr-4">
@@ -239,8 +270,8 @@
               </span>
             </div>
             <div class="media-body">
-              <h3 class="h5 g-color-black mb-20">Clean code</h3>
-              <p class="g-color-gray-dark-v4">We strive to embrace and drive change in our industry which allows us to keep our clients relevant.</p>
+              <h3 class="h5 g-color-black mb-20">Manufacturer integration</h3>
+              <p class="g-color-gray-dark-v4">To integrate ShareCloth’ solution to your, proven manufacturer</p>
             </div>
           </div>
           <!-- End Icon Blocks -->
@@ -253,136 +284,27 @@
               </span>
             </div>
             <div class="media-body">
-              <h3 class="h5 g-color-black mb-20">Modern design</h3>
-              <p class="g-color-gray-dark-v4">We strive to embrace and drive change in our industry which allows us to keep our clients relevant.</p>
+              <h3 class="h5 g-color-black mb-20">Website integration</h3>
+              <p class="g-color-gray-dark-v4">To start offering on-demand styles on your site or mobile app</p>
             </div>
           </div>
           <!-- End Icon Blocks -->
         </div>
 
-        <div class="col-lg-4 align-self-center g-mb-30">
-          <div class="g-px-10">
-            <img class="img-fluid" src="../../assets/img-temp/900x700/img1.png" alt="Image Description">
-          </div>
-        </div>
       </div>
       <!-- End Icon Blocks -->
     </div>
   </section>
   <!-- End Icon Blocks -->
 
- 
-  <!-- Testimonials Advanced -->
-  <section class="container g-py-100">
-    <div class="row justify-content-center g-mb-60">
-      <div class="col-lg-7">
-        <!-- Heading -->
-        <div class="text-center">
-          <h2 class="h3 g-color-black text-uppercase mb-2">What people say</h2>
-          <div class="d-inline-block g-width-35 g-height-2 g-bg-primary mb-2"></div>
-        </div>
-        <!-- End Heading -->
-      </div>
-    </div>
 
-    <!-- Testimonials Advanced -->
-    <div class="js-carousel" data-infinite="true" data-arrows-classes="u-arrow-v1 g-width-50 g-height-50 g-brd-1 g-brd-style-solid g-brd-gray-light-v1 g-brd-primary--hover g-color-gray-dark-v5 g-bg-primary--hover g-color-white--hover g-absolute-centered--y rounded-circle g-mt-minus-25"
-    data-arrow-left-classes="fa fa-angle-left g-left-0" data-arrow-right-classes="fa fa-angle-right g-right-0">
-      <div class="js-slide">
-        <div class="row justify-content-center">
-          <div class="col-lg-7">
-            <!-- Testimonial Advanced -->
-            <div class="g-pos-rel g-pt-40">
-              <em class="g-color-gray-light-v5 g-font-size-120 g-pos-abs g-top-minus-15 g-left-minus-15 g-z-index-minus-1">
-                  &#8220;
-                </em>
-              <blockquote class="lead g-font-style-italic g-line-height-2 g-pl-30 g-mb-30">Dear Htmlstream team, I just bought the Unify template some weeks ago. The template is really nice and offers quite a large set of options.</blockquote>
-
-              <div class="media">
-                <img class="d-flex align-self-center g-width-50 g-height-50 rounded-circle mr-3" src="../../assets/img-temp/100x100/img7.jpg" alt="Image Description">
-
-                <div class="media-body align-self-center">
-                  <h4 class="h5 g-font-weight-700 g-mb-0">Daniel Ramirez</h4>
-                  <span class="d-block g-color-gray-dark-v4">Designer</span>
-                </div>
-              </div>
-            </div>
-            <!-- End Testimonial Advanced -->
-          </div>
+<section class="g-bg-teal">
+      <div class="container g-py-30">
+        <div class="d-flex justify-content-between">
+          <h3 class="h5 align-self-center g-color-white mb-0 mr-4">I represent apparel manufacturer and would like to join ShareCloth</h3>
+          <a class="align-self-center btn btn-xl u-btn-outline-white g-font-size-default" href="#!">I'm the manufacturer</a>
         </div>
       </div>
-
-      <div class="js-slide">
-        <div class="row justify-content-center">
-          <div class="col-lg-7">
-            <!-- Testimonial Advanced -->
-            <div class="g-pos-rel g-pt-40">
-              <em class="g-color-gray-light-v5 g-font-size-120 g-pos-abs g-top-minus-15 g-left-minus-15 g-z-index-minus-1">
-                  &#8220;
-                </em>
-              <blockquote class="lead g-font-style-italic g-line-height-2 g-pl-30 g-mb-30">Hi there purchased a couple of days ago and the site looks great, big thanks to the htmlstream guys, they gave me some great help with some fiddly setup issues.</blockquote>
-
-              <div class="media">
-                <img class="d-flex align-self-center g-width-50 g-height-50 rounded-circle mr-3" src="../../assets/img-temp/100x100/img5.jpg" alt="Image Description">
-
-                <div class="media-body align-self-center">
-                  <h4 class="h5 g-font-weight-700 g-mb-0">Sara Anderson</h4>
-                  <span class="d-block g-color-gray-dark-v4">Designer</span>
-                </div>
-              </div>
-            </div>
-            <!-- End Testimonial Advanced -->
-          </div>
-        </div>
-      </div>
-    </div>
-    <!-- End Testimonials Advanced -->
-  </section>
-  <!-- End Testimonials Advanced -->
-
-  <!-- Clients -->
-  <div class="g-bg-gray-light-v5">
-    <div class="container g-py-70">
-      <div id="carousel1" class="js-carousel" data-infinite="true" data-autoplay="true" data-slides-show="6">
-        <div class="js-slide u-block-hover">
-          <img class="mx-auto g-width-80 u-block-hover__main--grayscale g-opacity-0_3 g-opacity-1--hover g-cursor-pointer" src="./assets/img-temp/200x100/img1.png" alt="Image Description">
-        </div>
-
-        <div class="js-slide u-block-hover">
-          <img class="mx-auto g-width-80 u-block-hover__main--grayscale g-opacity-0_3 g-opacity-1--hover g-cursor-pointer" src="../../assets/img-temp/200x100/img2.png" alt="Image Description">
-        </div>
-
-        <div class="js-slide u-block-hover">
-          <img class="mx-auto g-width-80 u-block-hover__main--grayscale g-opacity-0_3 g-opacity-1--hover g-cursor-pointer" src="../../assets/img-temp/200x100/img3.png" alt="Image Description">
-        </div>
-
-        <div class="js-slide u-block-hover">
-          <img class="mx-auto g-width-80 u-block-hover__main--grayscale g-opacity-0_3 g-opacity-1--hover g-cursor-pointer" src="../../assets/img-temp/200x100/img4.png" alt="Image Description">
-        </div>
-
-        <div class="js-slide u-block-hover">
-          <img class="mx-auto g-width-80 u-block-hover__main--grayscale g-opacity-0_3 g-opacity-1--hover g-cursor-pointer" src="../../assets/img-temp/200x100/img5.png" alt="Image Description">
-        </div>
-
-        <div class="js-slide u-block-hover">
-          <img class="mx-auto g-width-80 u-block-hover__main--grayscale g-opacity-0_3 g-opacity-1--hover g-cursor-pointer" src="../../assets/img-temp/200x100/img6.png" alt="Image Description">
-        </div>
-
-        <div class="js-slide u-block-hover">
-          <img class="mx-auto g-width-80 u-block-hover__main--grayscale g-opacity-0_3 g-opacity-1--hover g-cursor-pointer" src="../../assets/img-temp/200x100/img7.png" alt="Image Description">
-        </div>
-
-        <div class="js-slide u-block-hover">
-          <img class="mx-auto g-width-80 u-block-hover__main--grayscale g-opacity-0_3 g-opacity-1--hover g-cursor-pointer" src="../../assets/img-temp/200x100/img8.png" alt="Image Description">
-        </div>
-
-        <div class="js-slide u-block-hover">
-          <img class="mx-auto g-width-80 u-block-hover__main--grayscale g-opacity-0_3 g-opacity-1--hover g-cursor-pointer" src="../../assets/img-temp/200x100/img9.png" alt="Image Description">
-        </div>
-      </div>
-    </div>
-  </div>
-  <!-- End Clients -->
-
+    </section>
 
 <?php include "_footer.php";
