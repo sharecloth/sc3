@@ -22,6 +22,10 @@
     <link rel="stylesheet" href="assets/vendor/animate.css">
     <link rel="stylesheet" href="assets/vendor/slick-carousel/slick/slick.css">
     <link rel="stylesheet" href="assets/vendor/hamburgers/hamburgers.min.css">
+	<link rel="stylesheet" href="assets/vendor/dzsparallaxer/dzsparallaxer.css">
+	<link rel="stylesheet" href="assets/vendor/dzsparallaxer/dzsscroller/scroller.css">
+	<link rel="stylesheet" href="assets/vendor/dzsparallaxer/advancedscroller/plugin.css">
+
     <link rel="stylesheet" type="text/css" href="vendor/petun/forms/frontend/css/petun-forms.css">
 
 

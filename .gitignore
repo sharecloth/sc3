@@ -12,3 +12,4 @@ assets/include/
 php/config.php
 php/contacts.sqlite
 php/handler_config.php
+vendor/
