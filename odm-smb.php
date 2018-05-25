@@ -5,12 +5,12 @@
              data-options='{direction: "fromtop", animation_duration: 25, direction: "reverse"}'>
         <!-- Parallax Image -->
         <div class="divimage dzsparallaxer--target w-100 g-bg-cover g-bg-size-cover g-bg-pos-top-center g-bg-black-opacity-0_3--after"
-             style="height: 140%; background-image: url(assets/img-temp/1920x800/img11.jpg);"></div>
+             style="height: 140%; background-image: url(assets/sc/odm-bg2.jpg);"></div>
         <!-- End Parallax Image -->
 
         <!-- Promo Block Content -->
         <div class="container g-color-white text-center g-py-150">
-            <h2 class="h3 text-uppercase mb-2">The platform for the next generation of</h2>
+            <h2 class="h3 text-uppercase mb-2">The solution for the next generation of</h2>
             <p class="g-font-weight-600 g-font-size-40 text-uppercase">digital smart fashion retail</p>
         </div>
         <!-- Promo Block Content -->
@@ -99,7 +99,7 @@
                     <!-- Icon Blocks -->
                     <div class="g-brd-around--md g-brd-gray-light-v4 text-center">
 			        <span class="d-block g-color-gray-dark-v4 g-font-size-40 g-mb-15">
-						<img class="img-fluid" src="../../assets/img-temp/400x270/img13.jpg" alt="Image description">
+						<img class="img-fluid" src="assets/sc/odm-1.jpg" alt="Image description">
 		            </span>
                         <div class="g-pa-10 g-px-30--lg g-py-40--lg">
                             <h3 class="h5 g-color-black g-mb-10">The style digitizing</h3>
@@ -113,7 +113,7 @@
                     <!-- Icon Blocks -->
                     <div class="g-brd-around--md g-brd-gray-light-v4 text-center">
 			        <span class="d-block g-color-gray-dark-v4 g-font-size-40 g-mb-15">
-						<img class="img-fluid" src="../../assets/img-temp/400x270/img13.jpg" alt="Image description">
+						<img class="img-fluid" src="assets/sc/odm-2.jpg" alt="Image description">
 		            </span>
                         <div class="g-pa-10 g-px-30--lg g-py-40--lg">
                             <h3 class="h5 g-color-black g-mb-10">Web-site or app integration</h3>
@@ -127,7 +127,7 @@
                     <!-- Icon Blocks -->
                     <div class="g-brd-around--md g-brd-gray-light-v4 text-center">
 			        <span class="d-block g-color-gray-dark-v4 g-font-size-40 g-mb-15">
-						<img class="img-fluid" src="../../assets/img-temp/400x270/img13.jpg" alt="Image description">
+						<img class="img-fluid" src="assets/sc/odm-3.jpg" alt="Image description">
 		            </span>
                         <div class="g-pa-10 g-px-30--lg g-py-40--lg">
                             <h3 class="h5 g-color-black g-mb-10">Manufacturing integration</h3>
