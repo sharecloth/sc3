@@ -296,9 +296,9 @@
                     <!-- Icon Blocks -->
                     <div class="media g-mb-30">
                         <div class="d-flex mr-4">
-              <span class="u-icon-v3 u-icon-size--sm g-color-white g-bg-primary rounded-circle">
-                <i class="icon-education-035 u-line-icon-pro"></i>
-              </span>
+			              <span class="u-icon-v3 u-icon-size--sm g-color-white g-bg-primary rounded-circle">
+			                <i class="icon-education-035 u-line-icon-pro"></i>
+			              </span>
                         </div>
                         <div class="media-body">
                             <h3 class="h5 g-color-black mb-20">Product development</h3>
@@ -311,9 +311,9 @@
                     <!-- Icon Blocks -->
                     <div class="media g-mb-30">
                         <div class="d-flex mr-4">
-              <span class="u-icon-v3 u-icon-size--sm g-color-white g-bg-primary rounded-circle">
-                <i class="icon-education-087 u-line-icon-pro"></i>
-              </span>
+			              <span class="u-icon-v3 u-icon-size--sm g-color-white g-bg-primary rounded-circle">
+			                <i class="icon-education-087 u-line-icon-pro"></i>
+			              </span>
                         </div>
                         <div class="media-body">
                             <h3 class="h5 g-color-black mb-20">Product digitizing</h3>
@@ -327,9 +327,9 @@
                     <!-- Icon Blocks -->
                     <div class="media g-mb-30">
                         <div class="d-flex mr-4">
-              <span class="u-icon-v3 u-icon-size--sm g-color-white g-bg-primary rounded-circle">
-                <i class="icon-finance-256 u-line-icon-pro"></i>
-              </span>
+			              <span class="u-icon-v3 u-icon-size--sm g-color-white g-bg-primary rounded-circle">
+			                <i class="icon-finance-256 u-line-icon-pro"></i>
+			              </span>
                         </div>
                         <div class="media-body">
                             <h3 class="h5 g-color-black mb-20">Manufacturer integration</h3>
@@ -342,9 +342,9 @@
                     <!-- Icon Blocks -->
                     <div class="media g-mb-30">
                         <div class="d-flex mr-4">
-              <span class="u-icon-v3 u-icon-size--sm g-color-white g-bg-primary rounded-circle">
-                <i class="icon-finance-009 u-line-icon-pro"></i>
-              </span>
+			              <span class="u-icon-v3 u-icon-size--sm g-color-white g-bg-primary rounded-circle">
+			                <i class="icon-finance-009 u-line-icon-pro"></i>
+			              </span>
                         </div>
                         <div class="media-body">
                             <h3 class="h5 g-color-black mb-20">Website integration</h3>
