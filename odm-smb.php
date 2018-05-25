@@ -31,8 +31,7 @@
                     </div>
                     <div class="media-body">
                         <h3 class="h5 g-color-black mb-20">Drop less</h3>
-                        <p class="g-color-gray-dark-v4">Focus on creating and presenting smaller collections more often
-                            by switching from mass- to on-demand production</p>
+                        <p class="g-color-gray-dark-v4">Focus on creating and presenting smaller collections more often by switching from mass production to on-demand manufacturing</p>
                     </div>
                 </div>
                 <!-- End Icon Blocks -->
@@ -48,8 +47,7 @@
                     </div>
                     <div class="media-body">
                         <h3 class="h5 g-color-black mb-20">Change faster</h3>
-                        <p class="g-color-gray-dark-v4">React on trends and inspiration day-to-day having no needs to
-                            sell off the leftovers</p>
+                        <p class="g-color-gray-dark-v4">React to new trends and sources of inspiration on the day-to-day basis without the need to sell off leftovers</p>
                     </div>
                 </div>
                 <!-- End Icon Blocks -->
@@ -65,8 +63,7 @@
                     </div>
                     <div class="media-body">
                         <h3 class="h5 g-color-black mb-20">Reduce risks</h3>
-                        <p class="g-color-gray-dark-v4">Keep the fabric untouched until the order was paid, re-use
-                            fabric for new styles</p>
+                        <p class="g-color-gray-dark-v4">Keep the fabric untouched until the order has been paid for, and reuse the fabric for new styles</p>
                     </div>
                 </div>
                 <!-- End Icon Blocks -->
@@ -85,9 +82,7 @@
                     <div class="text-center mb-4">
                         <h2 class="h3 text-uppercase mb-3">ShareCloth on-demand</h2>
                         <div class="d-inline-block g-width-60 g-height-1 g-bg-black mb-2"></div>
-                        <p class="lead mb-0">A complex cloud-based solution that directly connects retail and
-                            manufacturing, which allows retail or a vertical brand to manufacture the garments after the
-                            purchase is made</p>
+                        <p class="lead mb-0">A complex cloud-based solution that directly connects retail and manufacturing, which allows retail or a vertical brand to manufacture the garments after the purchase is made</p>
                     </div>
                     <!-- End Heading -->
                 </div>
@@ -102,9 +97,8 @@
 						<img class="img-fluid" src="assets/sc/odm-1.jpg" alt="Image description">
 		            </span>
                         <div class="g-pa-10 g-px-30--lg g-py-40--lg">
-                            <h3 class="h5 g-color-black g-mb-10">The style digitizing</h3>
-                            <p class="g-color-gray-dark-v4">Our software and private cloud helps to prepare, store and
-                                manage the digital assets of the style for further use</p>
+                            <h3 class="h5 g-color-black g-mb-10">Digital styles</h3>
+                            <p class="g-color-gray-dark-v4">Our software and private cloud help to import, store and manage the created styles in digital format for further use</p>
                         </div>
                     </div>
                     <!-- End Icon Blocks -->
@@ -116,9 +110,8 @@
 						<img class="img-fluid" src="assets/sc/odm-2.jpg" alt="Image description">
 		            </span>
                         <div class="g-pa-10 g-px-30--lg g-py-40--lg">
-                            <h3 class="h5 g-color-black g-mb-10">Web-site or app integration</h3>
-                            <p class="g-color-gray-dark-v4">Easily integrate ShareCloth' solution to your site or app to
-                                enable your customers ordering customized styles</p>
+                            <h3 class="h5 g-color-black g-mb-10">Website or app integration</h3>
+                            <p class="g-color-gray-dark-v4">Easily integrate ShareCloth' solution into your site or app to enable your customers to order customized styles</p>
                         </div>
                     </div>
                     <!-- End Icon Blocks -->
@@ -131,8 +124,7 @@
 		            </span>
                         <div class="g-pa-10 g-px-30--lg g-py-40--lg">
                             <h3 class="h5 g-color-black g-mb-10">Manufacturing integration</h3>
-                            <p class="g-color-gray-dark-v4">Invite your manufacturer or find a new one to execute
-                                make-to-order with the help of ShareCloth' solution</p>
+                            <p class="g-color-gray-dark-v4">Invite your manufacturer into the ShareCloth network or find a new one to execute the made-to-order fashions with the help of ShareCloth solution</p>
                         </div>
                     </div>
                     <!-- End Icon Blocks -->
@@ -150,7 +142,8 @@
                     <div class="text-center">
                         <h2 class="h3 g-color-black text-uppercase mb-2">How does it work?</h2>
                         <div class="d-inline-block g-width-35 g-height-2 g-bg-primary mb-2"></div>
-                        <p class="lead mb-0">Introducing a new way of operating fashion business digitally for you and your customers</p>
+                        <p class="lead mb-0">Introducing a new way of digital operations for the fashion business that improve the experience of your customers and your company
+						</p>
                     </div>
                     <!-- End Heading -->
                 </div>
@@ -181,8 +174,7 @@
                                     <span class="u-dot-line-v1__inner g-bg-white g-bg-primary--before g-brd-gray-light-v2"></span>
                                 </i>
                                 <h3 class="h5 g-color-black mb-20">Digitize</h3>
-                                <p class="mb-0">Import ready for production garment into ShareCloth using simply branded
-                                    software</p>
+                                <p class="mb-0">Import the ready-for-production garments into the ShareCloth platform using simply branded software</p>
                             </div>
                             <!-- End Static Process -->
                         </div>
@@ -194,8 +186,7 @@
                                     <span class="u-dot-line-v1__inner g-bg-white g-bg-primary--before g-brd-gray-light-v2"></span>
                                 </i>
                                 <h3 class="h5 g-color-black mb-20">Approve</h3>
-                                <p class="mb-0">Assure the manufacturer accepted your garment within our system and ready to
-                                    accept on-demand orders</p>
+                                <p class="mb-0">Make sure that the manufacturer has accepted your garment for production using the system dashboard and ready-to-accept on-demand orders</p>
                             </div>
                             <!-- End Static Process -->
                         </div>
@@ -207,8 +198,7 @@
                                     <span class="u-dot-line-v1__inner g-bg-white g-bg-primary--before g-brd-gray-light-v2"></span>
                                 </i>
                                 <h3 class="h5 g-color-black mb-20">Sell</h3>
-                                <p class="mb-0">Once style is ready for business, start selling online by pushing it online
-                                    though the cloud</p>
+                                <p class="mb-0">Once the style is ready for sale, start your internet sales by marketing it online through the cloud</p>
                             </div>
                             <!-- End Static Process -->
                         </div>
@@ -220,9 +210,7 @@
                                     <span class="u-dot-line-v1__inner g-bg-white g-bg-primary--before g-brd-gray-light-v2"></span>
                                 </i>
                                 <h3 class="h5 g-color-black mb-20">Deliver</h3>
-                                <p class="mb-0">When garment is ordered, the solution will drive it though manufacturing for
-                                    you
-                                    to deliver it within days after the order</p>
+                                <p class="mb-0">When the garment is ordered, the solution will drive it through the manufacturing chain so that you can deliver the product within days of the order</p>
                             </div>
                             <!-- End Static Process -->
                         </div>
@@ -237,7 +225,7 @@
                                     <span class="u-dot-line-v1__inner g-bg-white g-bg-primary--before g-brd-gray-light-v2"></span>
                                 </i>
                                 <h3 class="h5 g-color-black mb-20">Select</h3>
-                                <p class="mb-0">The customer enters your website or app to shop your styles as usual with the seamless ShareCloth integration</p>
+                                <p class="mb-0">The customer visits your website or app to shop your styles in a usual manner with seamless ShareCloth integration</p>
                             </div>
                             <!-- End Static Process -->
                         </div>
@@ -249,7 +237,7 @@
                                     <span class="u-dot-line-v1__inner g-bg-white g-bg-primary--before g-brd-gray-light-v2"></span>
                                 </i>
                                 <h3 class="h5 g-color-black mb-20">Customize</h3>
-                                <p class="mb-0">If available the customer is offered to customize selected garment with fabric options, prints or cuts</p>
+                                <p class="mb-0">If the option is available, the customer is offered a chance to customize the selected garment with fabric options, prints or cuts</p>
                             </div>
                             <!-- End Static Process -->
                         </div>
@@ -261,8 +249,9 @@
                                 <i class="u-dot-line-v1-2 g-brd-gray-light-v2--before g-brd-transparent--after g-mb-20">
                                     <span class="u-dot-line-v1__inner g-bg-white g-bg-primary--before g-brd-gray-light-v2"></span>
                                 </i>
-                                <h3 class="h5 g-color-black mb-20">Get</h3>
-                                <p class="mb-0">Once the order is payed the on-demand solution generates the order to the proven manufacturer. The order will be made and delivered within a few days</p>
+                                <h3 class="h5 g-color-black mb-20">Receive</h3>
+                                <p class="mb-0">Once the purchase has been paid, the on-demand solution sends the order to the trusted manufacturer. The order will be produced and delivered within a few days
+								</p>
                             </div>
                             <!-- End Static Process -->
                         </div>
@@ -283,8 +272,7 @@
                     <div class="text-center">
                         <h2 class="h3 g-color-black text-uppercase mb-2">Our services</h2>
                         <div class="d-inline-block g-width-35 g-height-2 g-bg-primary mb-2"></div>
-                        <p class="lead mb-0">Is your company small &amp; efficient? We provide extra services for
-                            hassle-free launch with no extra hires</p>
+                        <p class="lead mb-0">Is your company small &amp; efficient? We provide extra services for hassle-free launch with no extra hires</p>
                     </div>
                     <!-- End Heading -->
                 </div>
@@ -302,8 +290,7 @@
                         </div>
                         <div class="media-body">
                             <h3 class="h5 g-color-black mb-20">Product development</h3>
-                            <p class="g-color-gray-dark-v4">To finalize your design into the ready to production
-                                style</p>
+                            <p class="g-color-gray-dark-v4">To help you finalize designs into the ready-for-production format</p>
                         </div>
                     </div>
                     <!-- End Icon Blocks -->
@@ -317,7 +304,7 @@
                         </div>
                         <div class="media-body">
                             <h3 class="h5 g-color-black mb-20">Product digitizing</h3>
-                            <p class="g-color-gray-dark-v4">To import your ready-made styles to the platform</p>
+                            <p class="g-color-gray-dark-v4">To import your existing styles into the platform</p>
                         </div>
                     </div>
                     <!-- End Icon Blocks -->
@@ -333,8 +320,7 @@
                         </div>
                         <div class="media-body">
                             <h3 class="h5 g-color-black mb-20">Manufacturer integration</h3>
-                            <p class="g-color-gray-dark-v4">To integrate ShareCloth’ solution to your, proven
-                                manufacturer</p>
+                            <p class="g-color-gray-dark-v4">To integrate ShareCloth solution with your trusted manufacturer</p>
                         </div>
                     </div>
                     <!-- End Icon Blocks -->
@@ -348,8 +334,7 @@
                         </div>
                         <div class="media-body">
                             <h3 class="h5 g-color-black mb-20">Website integration</h3>
-                            <p class="g-color-gray-dark-v4">To start offering on-demand styles on your site or mobile
-                                app</p>
+                            <p class="g-color-gray-dark-v4">To enable you to offer on-demand styles on your website or mobile app</p>
                         </div>
                     </div>
                     <!-- End Icon Blocks -->
@@ -360,7 +345,7 @@
         </div>
     </section>
     <!-- End Icon Blocks -->
-
+<!--
 
     <section class="g-bg-teal">
         <div class="container g-py-30">
@@ -372,5 +357,5 @@
             </div>
         </div>
     </section>
-
+-->
 <?php include "_footer.php";
