@@ -1,9 +1,9 @@
 <?php include "_header.php";?>
 
     <!-- Promo Block -->
-    <section class="u-bg-overlay g-bg-size-cover g-bg-pos-center g-bg-black-opacity-0_3--after" style="background-image: url(assets/img-temp/1920x800/img4.jpg);">
+    <section class="u-bg-overlay g-bg-size-cover g-bg-pos-center g-bg-black-opacity-0_3--after" style="background-image: url(assets/sc/contacts-bg.jpg);">
       <div class="container g-color-white text-center g-pos-rel g-z-index-1 g-py-150">
-        <h1 class="h2 g-font-weight-300">It is good to meet you</h1>
+        <h1 class="h2 g-font-weight-300">Look forward to meeting you!</h1>
         <h2 class="display-2 g-font-weight-600 text-uppercase g-letter-spacing-1">Contact us</h2>
       </div>
     </section>
@@ -173,54 +173,5 @@
       </div>
     </section>
     <!-- End Contacts -->
-
-    <hr class="g-brd-gray-light-v4 my-0">
-
-    <!-- Clients -->
-    <div class="container g-py-70">
-      <div class="js-carousel" data-infinite="true" data-autoplay="true" data-slides-show="6" data-responsive='[{
-               "breakpoint": 768,
-               "settings": {
-                 "slidesToShow": 1
-               }
-             }]'>
-        <div class="js-slide u-block-hover">
-          <img class="mx-auto g-width-80 u-block-hover__main--grayscale g-opacity-0_3 g-opacity-1--hover g-cursor-pointer" src="../../assets/img-temp/200x100/img1.png" alt="Image Description">
-        </div>
-
-        <div class="js-slide u-block-hover">
-          <img class="mx-auto g-width-80 u-block-hover__main--grayscale g-opacity-0_3 g-opacity-1--hover g-cursor-pointer" src="../../assets/img-temp/200x100/img2.png" alt="Image Description">
-        </div>
-
-        <div class="js-slide u-block-hover">
-          <img class="mx-auto g-width-80 u-block-hover__main--grayscale g-opacity-0_3 g-opacity-1--hover g-cursor-pointer" src="../../assets/img-temp/200x100/img3.png" alt="Image Description">
-        </div>
-
-        <div class="js-slide u-block-hover">
-          <img class="mx-auto g-width-80 u-block-hover__main--grayscale g-opacity-0_3 g-opacity-1--hover g-cursor-pointer" src="../../assets/img-temp/200x100/img4.png" alt="Image Description">
-        </div>
-
-        <div class="js-slide u-block-hover">
-          <img class="mx-auto g-width-80 u-block-hover__main--grayscale g-opacity-0_3 g-opacity-1--hover g-cursor-pointer" src="../../assets/img-temp/200x100/img5.png" alt="Image Description">
-        </div>
-
-        <div class="js-slide u-block-hover">
-          <img class="mx-auto g-width-80 u-block-hover__main--grayscale g-opacity-0_3 g-opacity-1--hover g-cursor-pointer" src="../../assets/img-temp/200x100/img6.png" alt="Image Description">
-        </div>
-
-        <div class="js-slide u-block-hover">
-          <img class="mx-auto g-width-80 u-block-hover__main--grayscale g-opacity-0_3 g-opacity-1--hover g-cursor-pointer" src="../../assets/img-temp/200x100/img7.png" alt="Image Description">
-        </div>
-
-        <div class="js-slide u-block-hover">
-          <img class="mx-auto g-width-80 u-block-hover__main--grayscale g-opacity-0_3 g-opacity-1--hover g-cursor-pointer" src="../../assets/img-temp/200x100/img8.png" alt="Image Description">
-        </div>
-
-        <div class="js-slide u-block-hover">
-          <img class="mx-auto g-width-80 u-block-hover__main--grayscale g-opacity-0_3 g-opacity-1--hover g-cursor-pointer" src="../../assets/img-temp/200x100/img9.png" alt="Image Description">
-        </div>
-      </div>
-    </div>
-    <!-- End Clients -->
 
 <?php include "_footer.php";
