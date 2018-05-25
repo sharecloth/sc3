@@ -101,13 +101,11 @@
                         <?php
 
                         $types = [
-                            '3d-retail' => 'Products - "3D retail" inquiry',
-                            'product-development' => 'Products - "Product development" inquiry',
+                            'odm' => '"On-demand solution" inquiry',
+                            '3d-retail' => '"3D retail solution" inquiry',
                             'services' => 'Services request',
-                            'creators' => 'ShareCloth Creators',
                             'feedback' => 'Feedback',
-                            'support' => 'Support',
-                            'odm' => 'On demand solutions',
+                            'support' => 'Support'
                         ];
                         $defaultType = !empty($_GET['from']) && in_array($_GET['from'], array_keys($types))
                             ?

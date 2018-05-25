@@ -124,14 +124,20 @@
 		            </span>
                         <div class="g-pa-10 g-px-30--lg g-py-40--lg">
                             <h3 class="h5 g-color-black g-mb-10">Manufacturing integration</h3>
-                            <p class="g-color-gray-dark-v4">Invite your manufacturer into the ShareCloth network or find a new one to execute the made-to-order fashions with the help of ShareCloth solution</p>
+                            <p class="g-color-gray-dark-v4">Invite your manufacturer into the ShareCloth network or find a new one to execute the made-to-order model</p>
                         </div>
                     </div>
                     <!-- End Icon Blocks -->
                 </div>
             </div>
             <!-- End Icon Blocks -->
-        </div>
+       
+			<div class="row container text-center">
+				<div class="col-lg-12">
+					<a href="/contacts.php?from=odm" class="btn u-btn-outline-primary g-font-size-13 text-uppercase g-py-10 g-px-15">Get early access</a>
+				</div>
+			</div>
+ 	   </div>
     </section>
 
     <section>
@@ -339,9 +345,14 @@
                     </div>
                     <!-- End Icon Blocks -->
                 </div>
-
+				
             </div>
             <!-- End Icon Blocks -->
+			<div class="row container text-center">
+				<div class="col-lg-12">
+					<a href="/contacts.php?from=services" class="btn u-btn-outline-primary g-font-size-13 text-uppercase g-py-10 g-px-15">Inquiry</a>
+				</div>
+			</div>
         </div>
     </section>
     <!-- End Icon Blocks -->

@@ -12,14 +12,14 @@
             <p class="g-font-size-24">By using branded cloud-based solution <br>for on-demand fashion business</p>
           </div>
 
-          <!--<a class="js-go-to btn u-btn-outline-white g-color-white g-bg-white-opacity-0_1 g-color-black--hover g-bg-white--hover g-font-weight-600 text-uppercase g-rounded-50 g-px-30 g-py-13" href="#!" data-target="#content">Get Started</a> -->
+          <a class="js-go-to btn u-btn-outline-white g-color-white g-bg-white-opacity-0_1 g-color-black--hover g-bg-white--hover g-font-weight-600 text-uppercase g-rounded-50 g-px-30 g-py-13" href="#index-about" data-target="#index-about">Get Started</a>
         </div>
       </section>
       <!-- End Promo Block -->
 	
 	
 	<!-- Benefits block -->
-	<section class="g-pos-rel g-overflow-hidden">
+	<section class="g-pos-rel g-overflow-hidden" id="index-about">
 	      <div class="container g-pt-100 g-pb-50">
 	        <div class="row justify-content-between">
 	          <div class="col-lg-5 g-mb-50">
@@ -29,7 +29,7 @@
 	                <h2 class="h1 g-color-black g-font-weight-600 g-mb-35">Revolution of <br> <span class="g-color-primary">fashion </span></h2>
 	                <p class="g-font-size-17"><strong>ShareCloth</strong> presents an integrated cloud-based solution to empower on-demand production for fashion business, covering all stages from the order to delivery</p>
 	              </div>
-	              <!--<a class="btn btn-md u-btn-primary g-font-weight-600 g-font-size-12 g-rounded-25 text-uppercase g-px-30 g-py-13 disabled" href="#!">Soon</a>-->
+	              <a class="btn btn-md u-btn-primary g-font-weight-600 g-font-size-12 g-rounded-25 text-uppercase g-px-30 g-py-13" href="/odm-smb.php">Read more</a>
 	            </div>
 	            <!-- End Heading -->
 	          </div>
@@ -237,7 +237,7 @@
                 </span>
               <h3 class="h4 g-color-gray-dark-v2 g-mb-10">For small and medium business</h3>
               <p class="g-mb-15">Release collections faster, build transparent digital relationships with the manufacturers and keep your resources in stand-by mode until the order is paid</p>
-              <!--<a class="g-font-size-12 text-uppercase g-font-weight-600" href="#!">Read More</a>-->
+              <a class="g-font-size-12 text-uppercase g-font-weight-600" href="/odm-smb.php">Read More</a>
             </div>
             <!-- End Icon Blocks -->
           </div>
@@ -250,6 +250,7 @@
                 </span>
               <h3 class="h4 g-color-gray-dark-v2 g-mb-10">For enterprise business</h3>
               <p class="g-mb-15">Build new level of customer loyalty and trust by offering on-demand customization</p><br>
+			  <a class="g-font-size-12 text-uppercase g-font-weight-600 inactive">Soon</a>
             </div>
             <!-- End Icon Blocks -->
           </div>
