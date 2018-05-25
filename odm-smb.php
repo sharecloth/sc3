@@ -148,10 +148,9 @@
                 <div class="col-lg-7">
                     <!-- Heading -->
                     <div class="text-center">
-                        <h2 class="h3 g-color-black text-uppercase mb-2">Our process</h2>
+                        <h2 class="h3 g-color-black text-uppercase mb-2">How does it work?</h2>
                         <div class="d-inline-block g-width-35 g-height-2 g-bg-primary mb-2"></div>
-                        <p class="lead mb-0">We are a creative person focusing on culture, luxury, editorial &amp; art.
-                            Somewhere between sophistication and simplicity.</p>
+                        <p class="lead mb-0">Introducing a new way of operating fashion business digitally for you and your customers</p>
                     </div>
                     <!-- End Heading -->
                 </div>
@@ -161,10 +160,10 @@
                     <div class="text-center">
                         <ul class="nav nav-pills nav-fill" id="myTab" role="tab">
                             <li class="nav-item">
-                                <a class="nav-link active" href="#brands-flow" data-toggle="tab" role="tab" aria-controls="home" aria-selected="true">Brand's flow</a>
+                                <a class="nav-link active" href="#business-flow" data-toggle="tab" role="tab" aria-controls="home" aria-selected="true">Business flow</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#consumer-flow" data-toggle="tab" role="tab" aria-controls="home" aria-selected="true">Consumer's flow</a>
+                                <a class="nav-link" href="#consumer-flow" data-toggle="tab" role="tab" aria-controls="home" aria-selected="true">Consumer flow</a>
                             </li>
                         </ul>
                     </div>
@@ -173,7 +172,7 @@
 
             <!-- Static Process -->
             <div class="tab-content" id="myTabContent">
-                <div class="tab-pane fade show active" id="brands-flow" role="tabpanel" aria-labelledby="home-tab">
+                <div class="tab-pane fade show active" id="business-flow" role="tabpanel" aria-labelledby="home-tab">
                     <div class="row">
                         <div class="col-sm-6 col-lg-3 g-mb-60">
                             <!-- Static Process -->
@@ -231,55 +230,39 @@
                 </div>
                 <div class="tab-pane fade" id="consumer-flow" role="tabpanel" aria-labelledby="profile-tab">
                     <div class="row">
-                        <div class="col-sm-6 col-lg-3 g-mb-60">
+                        <div class="col-sm-6 col-lg-4 g-mb-60">
                             <!-- Static Process -->
                             <div class="text-center">
                                 <i class="u-dot-line-v1-2 g-brd-transparent--before g-brd-gray-light-v2--after g-mb-20">
                                     <span class="u-dot-line-v1__inner g-bg-white g-bg-primary--before g-brd-gray-light-v2"></span>
                                 </i>
-                                <h3 class="h5 g-color-black mb-20">Digitize</h3>
-                                <p class="mb-0">Import ready for production garment into ShareCloth using simply branded
-                                    software</p>
+                                <h3 class="h5 g-color-black mb-20">Select</h3>
+                                <p class="mb-0">The customer enters your website or app to shop your styles as usual with the seamless ShareCloth integration</p>
                             </div>
                             <!-- End Static Process -->
                         </div>
 
-                        <div class="col-sm-6 col-lg-3 g-mb-60">
+                        <div class="col-sm-6 col-lg-4 g-mb-60">
                             <!-- Static Process -->
                             <div class="text-center">
                                 <i class="u-dot-line-v1-2 g-brd-gray-light-v2--before g-brd-gray-light-v2--after g-mb-20">
                                     <span class="u-dot-line-v1__inner g-bg-white g-bg-primary--before g-brd-gray-light-v2"></span>
                                 </i>
-                                <h3 class="h5 g-color-black mb-20">Approve</h3>
-                                <p class="mb-0">Assure the manufacturer accepted your garment within our system and ready to
-                                    accept on-demand orders</p>
+                                <h3 class="h5 g-color-black mb-20">Customize</h3>
+                                <p class="mb-0">If available the customer is offered to customize selected garment with fabric options, prints or cuts</p>
                             </div>
                             <!-- End Static Process -->
                         </div>
 
-                        <div class="col-sm-6 col-lg-3 g-mb-60">
-                            <!-- Static Process -->
-                            <div class="text-center">
-                                <i class="u-dot-line-v1-2 g-brd-gray-light-v2--before g-brd-gray-light-v2--after g-mb-20">
-                                    <span class="u-dot-line-v1__inner g-bg-white g-bg-primary--before g-brd-gray-light-v2"></span>
-                                </i>
-                                <h3 class="h5 g-color-black mb-20">Sell</h3>
-                                <p class="mb-0">Once style is ready for business, start selling online by pushing it online
-                                    though the cloud</p>
-                            </div>
-                            <!-- End Static Process -->
-                        </div>
 
-                        <div class="col-sm-6 col-lg-3 g-mb-60">
+                        <div class="col-sm-6 col-lg-4 g-mb-60">
                             <!-- Static Process -->
                             <div class="text-center">
                                 <i class="u-dot-line-v1-2 g-brd-gray-light-v2--before g-brd-transparent--after g-mb-20">
                                     <span class="u-dot-line-v1__inner g-bg-white g-bg-primary--before g-brd-gray-light-v2"></span>
                                 </i>
-                                <h3 class="h5 g-color-black mb-20">Deliver</h3>
-                                <p class="mb-0">When garment is ordered, the solution will drive it though manufacturing for
-                                    you
-                                    to deliver it within days after the order</p>
+                                <h3 class="h5 g-color-black mb-20">Get</h3>
+                                <p class="mb-0">Once the order is payed the on-demand solution generates the order to the proven manufacturer. The order will be made and delivered within a few days</p>
                             </div>
                             <!-- End Static Process -->
                         </div>
@@ -314,7 +297,7 @@
                     <div class="media g-mb-30">
                         <div class="d-flex mr-4">
               <span class="u-icon-v3 u-icon-size--sm g-color-white g-bg-primary rounded-circle">
-                <i class="icon-education-087 u-line-icon-pro"></i>
+                <i class="icon-education-035 u-line-icon-pro"></i>
               </span>
                         </div>
                         <div class="media-body">
@@ -329,7 +312,7 @@
                     <div class="media g-mb-30">
                         <div class="d-flex mr-4">
               <span class="u-icon-v3 u-icon-size--sm g-color-white g-bg-primary rounded-circle">
-                <i class="icon-education-035 u-line-icon-pro"></i>
+                <i class="icon-education-087 u-line-icon-pro"></i>
               </span>
                         </div>
                         <div class="media-body">
