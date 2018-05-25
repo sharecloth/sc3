@@ -98,14 +98,26 @@
                 <div class="form-group"><label for="type">Request type</label>
                     <select id="type" name="type"
                             class="form-control g-color-gray-dark-v5 g-bg-white g-bg-white--focus g-brd-primary--focus g-brd-gray-light-v4 rounded-3 g-py-13 g-px-15">
-                        <option value="On-demand Product" selected="1">On-demand Product</option>	
-                        <option value="Products - 3D retail inquiry">Products - "3D retail" inquiry</option>
-                        <option value="Products - Product development inquiry">Products - "Product development"
-                            inquiry
-                        </option>
-                        <option value="Services request">Services request</option>
-                        <option value="Feedback">Feedback</option>
-                        <option value="Support">Support</option>
+                        <?php
+
+                        $types = [
+                            '3d-retail' => 'Products - "3D retail" inquiry',
+                            'product-development' => 'Products - "Product development" inquiry',
+                            'services' => 'Services request',
+                            'creators' => 'ShareCloth Creators',
+                            'feedback' => 'Feedback',
+                            'support' => 'Support',
+                            'odm' => 'On demand solutions',
+                        ];
+                        $defaultType = !empty($_GET['from']) && in_array($_GET['from'], array_keys($types))
+                            ?
+                            $_GET['from'] : 'feedback';
+                        ?>
+
+                        <?php foreach ($types as $key => $value) { ?>
+                            <?php $selected = $key == $defaultType ? 'selected="1"' : '';?>
+                            <option <?=$selected;?> value="<?=str_replace('"', '', $value);?>"><?=$value;?></option>
+                        <?php }?>
                     </select>
                 </div>
                 <div class="row">
