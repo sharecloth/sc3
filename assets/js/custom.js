@@ -14,17 +14,7 @@ $(function() {
             }
 
         }
-    )
-    
-    function setButtonState(e) {
-        var checked = $('#agreement').prop('checked');
-        $('#contact-us-form').find('[type=submit]').attr('disabled', !checked);
-        console.log(checked);
-    }
-
-    setButtonState();
-
-    $('#agreement').on('click', setButtonState);
+    );
 });
 
 
@@ -52,4 +42,18 @@ $(function() {
             }
         });
     })
+});
+
+
+$(function() {
+    function setButtonState(e) {
+        var $agreement = $('#agreement');
+        var checked = $agreement.prop('checked');
+        var $form = $agreement.closest('form');
+        $form.find('[type=submit]').attr('disabled', !checked);
+        console.log(checked);
+    }
+
+    setButtonState();
+    $('#agreement').on('click', setButtonState);
 });
