@@ -173,6 +173,13 @@
                                                                                       cols="30"
                                                                                       rows="3"></textarea>
                 </div>
+
+                <div class="form-check">
+                    <label class="form-check-label g-mb-20">
+                        <input id="agreement" type="checkbox" class="form-check-input mr-1" name="agreement"> Apply sharecloth.com agreement
+                    </label>
+                </div>
+
                 <div class="actions"><input type="submit" class="btn btn-lg u-btn-primary g-font-weight-600 g-font-size-default rounded-3 text-uppercase g-py-15 g-px-30" id="contact-form-button"
                                             value="Send Message">
                 </div>
