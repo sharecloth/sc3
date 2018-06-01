@@ -28,13 +28,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                     <!-- Logo -->
                     <a href="/" class="navbar-brand">
-                        <img src="assets/sc/logo3-1.png" alt="ShareCloth">
+                        <img src="/assets/sc/logo3-1.png" alt="ShareCloth">
                     </a>
                     <!-- End Logo -->
 
                     <div class="d-inline-block g-hidden-xs-down g-pos-rel g-valign-middle g-pl-30 g-pl-0--lg">
                         <a class="btn u-btn-outline-primary g-font-size-13 text-uppercase g-py-10 g-px-15"
-                           href="contacts.php">Contact now</a>
+                           href="/contacts.php">Contact now</a>
                     </div>
                 </div>
             </nav>

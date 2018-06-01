@@ -103,34 +103,34 @@
 </main>
 
 <!-- JS Global Compulsory -->
-<script src="assets/vendor/jquery/jquery.min.js"></script>
-<script src="assets/vendor/jquery-migrate/jquery-migrate.min.js"></script>
-<script src="assets/vendor/popper.min.js"></script>
-<script src="assets/vendor/bootstrap/bootstrap.min.js"></script>
-<script src="assets/vendor/typedjs/typed.min.js"></script>
-<script src="assets/vendor/popper.min.js"></script>
+<script src="/assets/vendor/jquery/jquery.min.js"></script>
+<script src="/assets/vendor/jquery-migrate/jquery-migrate.min.js"></script>
+<script src="/assets/vendor/popper.min.js"></script>
+<script src="/assets/vendor/bootstrap/bootstrap.min.js"></script>
+<script src="/assets/vendor/typedjs/typed.min.js"></script>
+<script src="/assets/vendor/popper.min.js"></script>
 
 <!-- JS Implementing Plugins -->
-<script src="assets/vendor/hs-megamenu/src/hs.megamenu.js"></script>
-<script src="assets/vendor/slick-carousel/slick/slick.js"></script>
-<script src="assets/vendor/gmaps/gmaps.min.js"></script>
-<script type="text/javascript" src="vendor/petun/forms/frontend/js/jquery.petun-forms.js"></script>
-<script src="assets/vendor/dzsparallaxer/dzsparallaxer.js"></script>
-<script src="assets/vendor/dzsparallaxer/dzsscroller/scroller.js"></script>
-<script src="assets/vendor/dzsparallaxer/advancedscroller/plugin.js"></script>
+<script src="/assets/vendor/hs-megamenu/src/hs.megamenu.js"></script>
+<script src="/assets/vendor/slick-carousel/slick/slick.js"></script>
+<script src="/assets/vendor/gmaps/gmaps.min.js"></script>
+<script type="text/javascript" src="/vendor/petun/forms/frontend/js/jquery.petun-forms.js"></script>
+<script src="/assets/vendor/dzsparallaxer/dzsparallaxer.js"></script>
+<script src="/assets/vendor/dzsparallaxer/dzsscroller/scroller.js"></script>
+<script src="/assets/vendor/dzsparallaxer/advancedscroller/plugin.js"></script>
 
 <!-- JS Unify -->
-<script src="assets/js/hs.core.js"></script>
-<script src="assets/js/components/hs.header.js"></script>
-<script src="assets/js/helpers/hs.hamburgers.js"></script>
-<script src="assets/js/components/hs.carousel.js"></script>
-<script src="assets/js/components/hs.tabs.js"></script>
-<script src="assets/js/components/gmap/hs.map.js"></script>
-<script src="assets/js/components/hs.go-to.js"></script>
-
+<script src="/assets/js/hs.core.js"></script>
+<script src="/assets/js/components/hs.header.js"></script>
+<script src="/assets/js/helpers/hs.hamburgers.js"></script>
+<script src="/assets/js/components/hs.carousel.js"></script>
+<script src="/assets/js/components/hs.tabs.js"></script>
+<script src="/assets/js/components/gmap/hs.map.js"></script>
+<script src="/assets/js/components/hs.go-to.js"></script>
+<script src="/assets/js/components/hs.sticky-block.js"></script>
 
 <!-- JS Custom -->
-<script src="assets/js/custom.js"></script>
+<script src="/assets/js/custom.js"></script>
 
 
 <!-- JS Plugins Init. -->
@@ -144,6 +144,9 @@
 
         // initialization of go to
         $.HSCore.components.HSGoTo.init('.js-go-to');
+
+		// initialization of sticky blocks
+        $.HSCore.components.HSStickyBlock.init('.js-sticky-block');
     });
 
     $(document).on('ready', function () {
@@ -186,6 +189,8 @@
             $.HSCore.components.HSTabs.init('[role="tablist"]');
         }, 200);
     });
+
+
 </script>
 
 <script src="//maps.googleapis.com/maps/api/js?key=AIzaSyAtt1z99GtrHZt_IcnK-wryNsQ30A112J0&callback=initMap" async defer></script>
