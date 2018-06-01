@@ -31,27 +31,6 @@
 		          <i class="icon-real-estate-027 u-line-icon-pro"></i>
 		        </span>
                 <h4>Online support chat</h4>
-
-                <!-- Chatra {literal} -->
-                <script>
-                    window.ChatraSetup = {
-                        startHidden: true
-                    };
-
-                    (function(d, w, c) {
-                        w.ChatraID = 'R2NDg9B8Tmo5E4uZd';
-                        var s = d.createElement('script');
-                        w[c] = w[c] || function() {
-                            (w[c].q = w[c].q || []).push(arguments);
-                        };
-                        s.async = true;
-                        s.src = (d.location.protocol === 'https:' ? 'https:': 'http:')
-                            + '//call.chatra.io/chatra.js';
-                        if (d.head) d.head.appendChild(s);
-                    })(document, window, 'Chatra');
-                </script>
-                <!-- /Chatra {/literal} -->
-		      <span class="d-block"><a id="support_chat" onclick="Chatra('show'); Chatra('openChat', true); return false;" href="#">Open chat</a>
 		    </div>
 		    <!-- End Icon Blocks -->
 		  </div>
@@ -186,6 +165,83 @@
                 <div class="form-result"></div>
             </form>
 			  <!-- End Contact Form -->
+		</div>
+		<div class="col-lg-5 offset-lg-1 g-bg-gray-dark-v3">
+			<div class="g-pa-50 g-pa-70--md">
+		            <h2 class="h2 g-color-white">Our office</h2>
+
+		            <!-- Contact Details -->
+		            <ul class="list-unstyled g-color-white-opacity-0_7 g-font-weight-300 g-font-size-13 g-line-height-1_8 mb-0">
+		              <li class="g-my-30">
+		                <div class="media">
+		                  <i class="d-flex g-color-primary g-font-size-20 mt-1 mr-4 icon-hotel-restaurant-235 u-line-icon-pro"></i>
+		                  <div class="media-body">
+		                    142 W 57th Street
+							<br>New York, NY, United States
+		                    
+		                  </div>
+		                </div>
+		              </li>
+		              <li>
+		                <div class="media">
+		                  <i class="d-flex g-color-primary g-font-size-20 mt-1 mr-4 icon-education-097 u-line-icon-pro"></i>
+		                  <div class="media-body">
+		                    <h2 class="g-color-white-opacity-0_9 g-font-size-default g-font-weight-600 text-uppercase mb-3">Office hours:</h2>
+		                    <div class="mb-3">
+		                      <span class="d-block g-color-white">Monday - Firday</span>
+		                      09:00 AM - 06:00 PM
+		                    </div>
+		                    <span class="d-block g-color-white">Weekend &amp; Holidays</span>
+		                    Closed
+		                  </div>
+		                </div>
+		              </li>
+		              <li class="g-my-30">
+		                <div class="media">
+		                  <i class="d-flex g-color-primary g-font-size-20 mt-1 mr-4 icon-communication-062 u-line-icon-pro"></i>
+		                  <div class="media-body">
+		                    hi@sharecloth.com
+		                  </div>
+		                </div>
+		              </li>
+					  <li class="g-my-30">
+						<div class="media">
+    					  <i class="d-flex g-color-primary g-font-size-20 mt-1 mr-4 icon-communication-062 u-line-icon-pro"></i>
+						  <div class="media-body">
+							 <!-- Chatra {literal} -->
+				                <script>
+				                    window.ChatraSetup = {
+				                        startHidden: true
+				                    };
+
+				                    (function(d, w, c) {
+				                        w.ChatraID = 'R2NDg9B8Tmo5E4uZd';
+				                        var s = d.createElement('script');
+				                        w[c] = w[c] || function() {
+				                            (w[c].q = w[c].q || []).push(arguments);
+				                        };
+				                        s.async = true;
+				                        s.src = (d.location.protocol === 'https:' ? 'https:': 'http:')
+				                            + '//call.chatra.io/chatra.js';
+				                        if (d.head) d.head.appendChild(s);
+				                    })(document, window, 'Chatra');
+				                </script>
+				                <!-- /Chatra {/literal} -->
+						      <span class="d-block"><a class="g-color-white" id="support_chat" onclick="Chatra('show'); Chatra('openChat', true); return false;" href="#">Start chatting</a>
+						  </div>
+						</div>
+					  </li>
+		              <li class="g-my-30">
+		                <div class="media">
+		                  <i class="d-flex g-color-primary g-font-size-20 mt-1 mr-4 icon-communication-033 u-line-icon-pro"></i>
+		                  <div class="media-body">
+		                    <a class="g-color-white zingayaButton zingaya0398fcfa7a2f41c7b9935d9b14296873" id="zingayaButton0398fcfa7a2f41c7b9935d9b14296873" href="https://zingaya.com/widget/0398fcfa7a2f41c7b9935d9b14296873" onclick="window.open(this.href+'?referrer='+escape(window.location.href)+'', '_blank', 'width=236,height=220,resizable=no,toolbar=no,menubar=no,location=no,status=no'); return false;">Online call</a></span>
+		                  </div>
+		                </div>
+		              </li>
+		            </ul>
+		            <!-- End Contact Details -->
+		          </div>
 		</div>
       </div>
     </section>
