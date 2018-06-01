@@ -38,6 +38,7 @@
     <link rel="stylesheet" href="assets/vendor/icon-hs/style.css">
     <link rel="stylesheet" href="assets/vendor/icon-awesome/css/font-awesome.min.css">
     <link rel="stylesheet" href="assets/vendor/icon-line-pro/style.css">
+    <link rel="stylesheet" href="assets/vendor/icon-line/css/simple-line-icons.css">
     <link rel="stylesheet" href="assets/vendor/hs-megamenu/src/hs.megamenu.css">
     <link rel="stylesheet" href="assets/vendor/animate.css">
     <link rel="stylesheet" href="assets/vendor/slick-carousel/slick/slick.css">
