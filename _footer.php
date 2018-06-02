@@ -95,6 +95,26 @@
                 </nav>
             </div>
             <!-- End Footer Content -->
+			
+			<!-- Footer Content -->
+			<div class="col-lg-3 col-md-6 g-mb-40 g-mb-0--lg">
+                <div class="u-heading-v2-3--bottom g-brd-white-opacity-0_8 g-mb-20">
+                    <h2 class="u-heading-v2__title h6 text-uppercase mb-0">More information</h2>
+                </div>
+
+                <nav class="text-uppercase1">
+                    <ul class="list-unstyled g-mt-minus-10 mb-0">
+                        <li class="g-pos-rel g-brd-bottom g-brd-white-opacity-0_1 g-py-10">
+                            <h4 class="h6 g-pr-20 mb-0">
+                                <a class="g-color-white-opacity-0_8 g-color-white--hover" href="/pages/privacy.php">Privacy policy</a>
+                            </h4>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+			
+			<!-- End Footer Content -->
+			
         </div>
     </div>
 </div>

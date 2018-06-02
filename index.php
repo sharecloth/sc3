@@ -334,7 +334,7 @@
 
                   <div class="form-check" style="padding: 10px 0 0 40px;">
                       <label class="form-check-label g-mb-20">
-                          <input id="agreement" type="checkbox" class="form-check-input mr-1" name="agreement"> Apply sharecloth.com agreement
+                          <input id="agreement" type="checkbox" class="form-check-input mr-1" name="agreement">I give a consent to process my information according to <a href="/pages/privacy.php">privacy policy</a>
                       </label>
                   </div>
 
