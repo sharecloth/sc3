@@ -21,21 +21,6 @@
           <p class="lead">We invited <strong>40 girls</strong> to the freshly made simple mobile app to try new shopping experience. They could choose the fabric and color for their dresses.</p>
           <p class="lead">We also offered them to create <strong>ShareCloth</strong> body avatar to virtually validate the fit before the manufacturing in order to produce the best product for our clients.</p>
         </div>
-
-        <div class="col-md-4 g-mb-30">
-          <div class="mb-5">
-            <h3 class="h5 g-color-black g-font-weight-600 mb-3">Client:</h3>
-            <a class="g-color-gray-dark-v4 g-text-underline--none--hover" href="#!">
-              <img class="g-width-25 g-height-25 rounded-circle mb-1 mr-2" src="/assets/sc/logo.png" alt="Image Description">ShareCloth' demo app
-            </a>
-          </div>
-
-          <h3 class="h5 g-color-black g-font-weight-600 mb-3">Date:</h3>
-          <span class="d-block">
-              <i class="align-middle g-color-gray-dark-v5 g-font-size-24 g-pos-rel g-top-1 mr-2 icon-finance-078 u-line-icon-pro"></i>
-              May 2018
-            </span>
-        </div>
       </div>
     </section>
     <!-- End Portfolio Case Study -->
