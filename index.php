@@ -295,8 +295,8 @@
 				            <h4 class="h4 g-color-gray-dark-v2">days</h4>
 				          </div>
 					</div>
-					<a class="btn u-btn-primary g-brd-2 g-brd-white g-font-size-13 g-rounded-50 g-pl-20 g-pr-15 g-py-9 disabled" href="#!">
-                  Soon
+					<a class="btn u-btn-primary g-brd-2 g-brd-white g-font-size-13 g-rounded-50 g-pl-20 g-pr-15 g-py-9" href="/odm-case1.php">
+                  Learn more
                   <span class="align-middle u-icon-v3 g-width-16 g-height-16 g-color-black g-bg-white g-font-size-11 rounded-circle ml-3">
                     <i class="fa fa-angle-right"></i>
                   </span>
