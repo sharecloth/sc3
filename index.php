@@ -273,7 +273,7 @@
                 <div class="g-mb-20">
                   <h2 class="g-color-black g-font-weight-600 g-font-size-25 g-font-size-35--lg g-line-height-1_2 mb-4">	Fit. Indeed.
                   </h2>
-                  <p class="g-font-size-16">We invited forty young women to order a dress using our new shopping experience and on-demand model. Learn about the speed, transparency and efficiency in our first case study.</p>
+                  <p class="g-font-size-16">We invited forty girls to order a dress using our new shopping experience and on-demand model. Learn about the speed, transparency and efficiency in our first case study.</p>
 					<div class="row text-center">
 				          <div class="col-lg-3 col-sm-6 g-mb-50">
 				            <div class="js-counter g-color-primary g-font-weight-600 g-font-size-30">1</div>
