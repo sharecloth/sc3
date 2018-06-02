@@ -9,59 +9,6 @@
     </section>
     <!-- End Promo Block -->
 
-	<section class="clearfix g-brd-bottom g-brd-gray-light-v4">
-		<!-- Icons Block -->
-		<div class="row no-gutters">
-		  <div class="col-md-6 col-lg-3 g-brd-right--md g-brd-gray-light-v4">
-		    <!-- Icon Blocks -->
-		    <div class="text-center g-py-20">
-		      <span class="u-icon-v1 u-icon-size--xl g-color-black g-mb-10">
-		          <i class="icon-electronics-005 u-line-icon-pro"></i>
-		        </span>
-		      <h4 class="h5 g-font-weight-600 g-mb-5">Online call</h4>
-		      <span class="d-block">
-				<a class="zingayaButton zingaya0398fcfa7a2f41c7b9935d9b14296873" id="zingayaButton0398fcfa7a2f41c7b9935d9b14296873" href="https://zingaya.com/widget/0398fcfa7a2f41c7b9935d9b14296873" onclick="window.open(this.href+'?referrer='+escape(window.location.href)+'', '_blank', 'width=236,height=220,resizable=no,toolbar=no,menubar=no,location=no,status=no'); return false;">Call now</a></span>
-		    </div>
-		    <!-- End Icon Blocks -->
-		  </div>
-		  <div class="col-md-6 col-lg-3 g-brd-right--md g-brd-gray-light-v4">
-		    <!-- Icon Blocks -->
-		    <div class="text-center g-py-20">
-		      <span class="u-icon-v1 u-icon-size--xl g-color-black g-mb-10">
-		          <i class="icon-real-estate-027 u-line-icon-pro"></i>
-		        </span>
-                <h4>Online support chat</h4>
-		    </div>
-		    <!-- End Icon Blocks -->
-		  </div>
-		  <div class="col-md-6 col-lg-3 g-brd-right--md g-brd-gray-light-v4">
-		    <!-- Icon Blocks -->
-		    <div class="text-center g-py-20">
-		      <span class="u-icon-v1 u-icon-size--xl g-color-black g-mb-10">
-		          <i class="icon-communication-062 u-line-icon-pro"></i>
-		        </span>
-		      <h4 class="h5 g-font-weight-600 g-mb-5">Email</h4>
-		      <span class="d-block">hi@sharecloth.com</span>
-		    </div>
-		    <!-- End Icon Blocks -->
-		  </div>
-
-		  <div class="col-md-6 col-lg-3">
-		    <!-- Icon Blocks -->
-		    <div class="text-center g-py-20">
-		      <span class="u-icon-v1 u-icon-size--xl g-color-black g-mb-10">
-		          <i class="icon-real-estate-027 u-line-icon-pro"></i>
-		        </span>
-		      <h4 class="h5 g-font-weight-600 g-mb-5">Mail address</h4>
-		      <span class="d-block">ShareCloth, Inc.
-			Suit 210-A, 300 Delaware Ave., Willmington, DE, United States, 90801</span>
-		    </div>
-		    <!-- End Icon Blocks -->
-		  </div>
-		</div>
-		<!-- End Icons Block -->
-	</section>
-
     <!-- Contacts -->
     <section class="container g-py-70">
       <div class="row">
@@ -178,7 +125,7 @@
 		                  <div class="media-body">
 		                    142 W 57th Street
 							<br>New York, NY, United States
-		                    
+		                    <p><a class="g-color-white" href="https://www.google.com/maps/dir/?api=1&destination=142+W+57th+Street">Get a route</a></p>
 		                  </div>
 		                </div>
 		              </li>
