@@ -143,14 +143,13 @@
 		                  </div>
 		                </div>
 		              </li>
-		              <li class="g-my-30">
-		                <div class="media">
-		                  <i class="d-flex g-color-primary g-font-size-20 mt-1 mr-4 icon-communication-062 u-line-icon-pro"></i>
-		                  <div class="media-body">
-		                    hi@sharecloth.com
-		                  </div>
-		                </div>
-		              </li>
+					  <li class="g-my-30">
+						<div class="media">
+							<div class="media-body">
+					  			<span class="h2 g-color-white">Let's speak online</span>
+							</div>
+						</div>
+					  </li>		      
 					  <li class="g-my-30">
 						<div class="media">
     					  <i class="d-flex g-color-primary g-font-size-20 mt-1 mr-4 icon-communication-062 u-line-icon-pro"></i>
