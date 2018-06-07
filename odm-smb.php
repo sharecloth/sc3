@@ -362,7 +362,7 @@
             <div class="d-flex justify-content-between">
                 <h3 class="h5 align-self-center g-color-white mb-0 mr-4">I'm a manufacturing contractor and would like
                     to join ShareCloth</h3>
-                <a class="align-self-center btn btn-xl u-btn-outline-white g-font-size-default" href="/odm-manufacture.php">I'm the
+                <a class="align-self-center btn btn-xl u-btn-outline-white g-font-size-default" href="/odm-manufacture.php">I'm a
                     manufacturer</a>
             </div>
         </div>
