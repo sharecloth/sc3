@@ -18,10 +18,10 @@
         <div class="col-sm-6 col-lg-3 g-mb-30">
           <!-- Article -->
           <article class="u-shadow-v21 u-shadow-v21--hover g-bg-white g-pos-rel g-rounded-5">
-            <img class="img-fluid w-100 g-rounded-top-5" src="../../assets/img-temp/350x230/img1.jpg" alt="Image Description">
+            <img class="img-fluid w-100 g-rounded-top-5" src="/assets/sc/odm-manufacture-step1.jpg" alt="Image Description">
             <div class="g-pa-30">
               <h3 class="h6 g-color-black g-font-weight-600 text-capitalize mb-3">
-                  <a class="g-color-black g-color-primary--hover g-text-underline--none--hover" href="#!">Receive</a>
+                  Receive
                 </h3>
               <p class="g-color-gray-dark-v4">Collect or accept style data (PDM) in the digital format</p>
             </div>
@@ -32,10 +32,10 @@
         <div class="col-sm-6 col-lg-3 g-mb-30">
           <!-- Article -->
           <article class="u-shadow-v21 u-shadow-v21--hover g-bg-white g-pos-rel g-rounded-5">
-            <img class="img-fluid w-100 g-rounded-top-5" src="../../assets/img-temp/350x230/img2.jpg" alt="Image Description">
+            <img class="img-fluid w-100 g-rounded-top-5" src="/assets/sc/odm-manufacture-step2.jpg" alt="Image Description">
             <div class="g-pa-30">
               <h3 class="h6 g-color-black g-font-weight-600 text-capitalize mb-3">
-                  <a class="g-color-black g-color-primary--hover g-text-underline--none--hover" href="#!">Accept</a>
+                  Accept
                 </h3>
               <p class="g-color-gray-dark-v4">Estimate each style in your proven economy</p>
             </div>
@@ -46,10 +46,10 @@
         <div class="col-sm-6 col-lg-3 g-mb-30">
           <!-- Article -->
           <article class="u-shadow-v21 u-shadow-v21--hover g-bg-white g-pos-rel g-rounded-5">
-            <img class="img-fluid w-100 g-rounded-top-5" src="../../assets/img-temp/350x230/img3.jpg" alt="Image Description">
+            <img class="img-fluid w-100 g-rounded-top-5" src="/assets/sc/odm-manufacture-step3.jpg" alt="Image Description">
             <div class="g-pa-30">
               <h3 class="h6 g-color-black g-font-weight-600 text-capitalize mb-3">
-                  <a class="g-color-black g-color-primary--hover g-text-underline--none--hover" href="#!">Produce</a>
+                  Produce
                 </h3>
               <p class="g-color-gray-dark-v4">Once approved start producing orders on-demand</p>
             </div>
@@ -60,12 +60,12 @@
         <div class="col-sm-6 col-lg-3 g-mb-30">
           <!-- Article -->
           <article class="u-shadow-v21 u-shadow-v21--hover g-bg-white g-pos-rel g-rounded-5">
-            <img class="img-fluid w-100 g-rounded-top-5" src="../../assets/img-temp/350x230/img4.jpg" alt="Image Description">
+            <img class="img-fluid w-100 g-rounded-top-5" src="/assets/sc/odm-manufacture-step4.jpg" alt="Image Description">
             <div class="g-pa-30">
               <h3 class="h6 g-color-black g-font-weight-600 text-capitalize mb-3">
-                  <a class="g-color-black g-color-primary--hover g-text-underline--none--hover" href="#!">Ship</a>
+                  Ship
                 </h3>
-              <p class="g-color-gray-dark-v4">By your own or with a help of delivery service</p>
+              <p class="g-color-gray-dark-v4">To the end-customer by your own or a delivery service</p>
             </div>
           </article>
           <!-- End Article -->
@@ -119,7 +119,7 @@
 <!-- End Icon Blocks -->
 
 <!-- Hero Info -->
-<section class="g-bg-cover g-bg-size-cover g-bg-black-opacity-0_4--after g-py-120" style="background-image: url(../../assets/img-temp/1920x800/img2.jpg);">
+<section class="g-bg-cover g-bg-size-cover g-bg-black-opacity-0_4--after g-py-120" style="background-image: url(/assets/sc/odm-manufacture-2.jpg);">
   <div class="container text-center g-color-white g-pos-rel g-z-index-1">
     <div class="row justify-content-center">
       <div class="col-md-6">
