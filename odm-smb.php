@@ -356,17 +356,16 @@
         </div>
     </section>
     <!-- End Icon Blocks -->
-<!--
 
     <section class="g-bg-teal">
         <div class="container g-py-30">
             <div class="d-flex justify-content-between">
-                <h3 class="h5 align-self-center g-color-white mb-0 mr-4">I represent apparel manufacturer and would like
+                <h3 class="h5 align-self-center g-color-white mb-0 mr-4">I'm a manufacturing contractor and would like
                     to join ShareCloth</h3>
                 <a class="align-self-center btn btn-xl u-btn-outline-white g-font-size-default" href="#!">I'm the
                     manufacturer</a>
             </div>
         </div>
     </section>
--->
+
 <?php include "_footer.php";
