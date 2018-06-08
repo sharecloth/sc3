@@ -94,7 +94,7 @@
         <!-- Icon Blocks -->
         <div class="text-center">
           <span class="u-icon-v2 g-color-white g-bg-primary rounded-circle mb-4">
-            <i class="icon-education-035 u-line-icon-pro"></i>
+            <i class=" icon-finance-053 u-line-icon-pro"></i>
           </span>
           <h3 class="h5 g-color-black text-uppercase mb-3">Automated payments</h3>
           <p class="g-color-gray-dark-v4">Receive payment per garment delivered, control your financials with platform dashboard</p>
@@ -106,7 +106,7 @@
         <!-- Icon Blocks -->
         <div class="text-center">
           <span class="u-icon-v2 g-color-white g-bg-primary rounded-circle mb-4">
-            <i class="icon-education-141 u-line-icon-pro"></i>
+            <i class="icon-finance-173 u-line-icon-pro"></i>
           </span>
           <h3 class="h5 g-color-black text-uppercase mb-3">Easy integration</h3>
           <p class="g-color-gray-dark-v4">Explore the easy way to integrate ShareCloth into your existing business process</p>
