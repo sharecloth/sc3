@@ -8,8 +8,7 @@
                     <h2 class="u-heading-v2__title h6 text-uppercase mb-0">About Us</h2>
                 </div>
 
-                <p>ShareCloth is a cloud-based solution that directly connects retail and manufacturing, which allows retail or a vertical brand to manufacture the garments after the purchase is made.
-				</p>
+                <p>ShareCloth is a cloud-based solution that directly connects retail and manufacturing, allowing fashion retail and  vertical brands to manufacture the garments after the purchase is made</p>
             </div>
             <!-- End Footer Content -->
 
