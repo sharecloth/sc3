@@ -177,6 +177,7 @@
 						  </div>
 						</div>
 					  </li>
+					<!--
 		              <li class="g-my-30">
 		                <div class="media">
 		                  <i class="d-flex g-color-primary g-font-size-20 mt-1 mr-4 icon-communication-033 u-line-icon-pro"></i>
@@ -184,7 +185,7 @@
 		                    <a class="h5 g-color-white zingayaButton zingaya0398fcfa7a2f41c7b9935d9b14296873" id="zingayaButton0398fcfa7a2f41c7b9935d9b14296873" href="https://zingaya.com/widget/0398fcfa7a2f41c7b9935d9b14296873" onclick="window.open(this.href+'?referrer='+escape(window.location.href)+'', '_blank', 'width=236,height=220,resizable=no,toolbar=no,menubar=no,location=no,status=no'); return false;">Online call</a></span>
 		                  </div>
 		                </div>
-		              </li>
+		              </li>-->
 		            </ul>
 		            <!-- End Contact Details -->
 		          </div>
