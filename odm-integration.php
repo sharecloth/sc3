@@ -227,6 +227,59 @@
 
             </pre>
 
+
+            <hr />
+            <header class="u-heading-v2-3--bottom g-brd-primary g-mb-20" id="integration">
+                <h2 class="h4 u-heading-v2__title g-color-gray-dark-v2 g-font-weight-600 text-uppercase">Подключение виджета для squarespace.com</h2>
+            </header>
+
+            <div class="mb-2">
+                <div class="d-inline-block g-width-20 g-height-2 g-pos-rel g-top-minus-4 g-bg-primary mr-2"></div>
+                <span class="g-color-gray-dark-v3 g-font-weight-600 g-font-size-16 text-uppercase">Внедрение виджета</span>
+            </div>
+            <p>Скопируйте код со страницы управления магазином и вставьте его в разделе <i>Advanced - Code injection - Footer (/config/settings/advanced/injection)</i>.</p>
+            <p>Кроме этого, подключите  jQuery, если он еще не используется в вашем макете.</p>
+
+            <div><img src="assets/sc/i-step1.png" class="img-fluid" /> </div>
+            <div><img src="assets/sc/i-step-sq-1.png" class="img-fluid" style="max-width: 772px;" /> </div>
+
+            <pre>
+            <?=htmlspecialchars('
+<script src="//code.jquery.com/jquery-2.2.1.min.js"></script>
+<script>
+   window.jQuery || document.write(\'<script src="scripts/jquery-2.2.1.min.js"><\/script>\')
+</script>
+
+<script type="text/javascript" src="https://odm-api.sharecloth.com/embed/static/js?v=1.0&lang=en-us&shop_token=<token here>"></script>            
+            ');?>
+                </pre>
+
+
+            <div class="mb-2">
+                <div class="d-inline-block g-width-20 g-height-2 g-pos-rel g-top-minus-4 g-bg-primary mr-2"></div>
+                <span class="g-color-gray-dark-v3 g-font-weight-600 g-font-size-16 text-uppercase">Подключение на странице товара</span>
+            </div>
+
+            <p>Существует два способа подключения. </p>
+            <p><strong>1.</strong> Через вставку блока кода в разделе редактирования товара.</p>
+
+
+            <div class="mb-5"><img src="assets/sc/i-step-sq-2.png" class="img-fluid" /> </div>
+
+
+            <p><strong>2.</strong> Через режим разреботчика, путем правки макета одного товара: <strong></strong></p>
+
+            <pre>
+                <?=htmlspecialchars('
+<div class="sqs-add-to-cart-button-wrapper" style="visibility: visible;" id="yui_3_17_2_1_1529404026049_546">
+          <div class="sharecloth-shop-trigger"
+           data-sharecloth-product-id="1" data-sharecloth-mode="modal">
+            <div class="sqs-add-to-cart-button-inner">Customize and buy</div>
+          </div>
+        </div>                
+                ');?>
+            </pre>
+
         </div>
     </section>
 
