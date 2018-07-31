@@ -1,15 +1,23 @@
 <?php include "_header.php"; ?>
 
+	<!-- Promo Block -->
+	<section class="dzsparallaxer auto-init height-is-based-on-content use-loading mode-scroll loaded dzsprx-readyall "
+	         data-options='{direction: "fromtop", animation_duration: 25, direction: "reverse"}'>
+	    <!-- Parallax Image -->
+	    <div class="divimage dzsparallaxer--target w-100 g-bg-cover g-bg-size-cover g-bg-pos-top-center g-bg-black-opacity-0_3--after"
+	         style="height: 140%; background-image: url(assets/sc/odm-2.jpg);"></div>
+	    <!-- End Parallax Image -->
+
+	    <!-- Promo Block Content -->
+	    <div class="container g-color-white text-center g-py-150">
+	        <h1 class="h1 text-uppercase mb-2">ShareCloth On-demand <br> <small>integration manual</small></h1>
+	    </div>
+	    <!-- Promo Block Content -->
+	</section>
+	<!-- End Promo Block -->
 
     <section class="how-to">
-        <div class="container">
-            <h1>ODM integration</h1>
-
-            <div class="text-center g-mb-50">
-                <h2 class="h4 g-mb-0">Процесс подключения
-                </h2>
-            </div>
-
+        <div class="container g-pt-50 g-pb-50">
             <div id="shortcode1">
                 <div class="shortcode-html">
                     <!-- Static Process -->
@@ -20,8 +28,8 @@
                                 <i class="u-dot-line-v1-2 g-brd-transparent--before g-brd-gray-light-v2--after g-mb-20">
                                     <span class="u-dot-line-v1__inner g-bg-white g-bg-primary--before g-brd-gray-light-v2"></span>
                                 </i>
-                                <h3 class="h5 g-font-weight-600 g-mb-10">Заявка</h3>
-                                <p class="mb-0">Зарегистрируйте свой магазин, подав заявку на <a href="/contacts.php?from=odm">эту форму</a></p>
+                                <h3 class="h5 g-font-weight-600 g-mb-10">Application</h3>
+                                <p class="mb-0">Register your store by submitting the application <a href="/contacts.php?from=odm">here</a></p>
                             </div>
                             <!-- End Static Process -->
                         </div>
@@ -32,8 +40,8 @@
                                 <i class="u-dot-line-v1-2 g-brd-gray-light-v2--before g-brd-gray-light-v2--after g-mb-20">
                                     <span class="u-dot-line-v1__inner g-bg-white g-bg-primary--before g-brd-gray-light-v2"></span>
                                 </i>
-                                <h3 class="h5 g-font-weight-600 g-mb-10">Активация</h3>
-                                <p class="mb-0">После того, как мы рассмотрим заявку, к вам на почту, придут данные для входа в систему.</p>
+                                <h3 class="h5 g-font-weight-600 g-mb-10">Activating</h3>
+                                <p class="mb-0">After reviewing the application, we’ll send system login information to your email</p>
                             </div>
                             <!-- End Static Process -->
                         </div>
@@ -44,8 +52,8 @@
                                 <i class="u-dot-line-v1-2 g-brd-gray-light-v2--before g-brd-gray-light-v2--after g-mb-20">
                                     <span class="u-dot-line-v1__inner g-bg-white g-bg-primary--before g-brd-gray-light-v2"></span>
                                 </i>
-                                <h3 class="h5 g-font-weight-600 g-mb-10">Наполнение данными</h3>
-                                <p class="mb-0">Заполните свой магазин данными (материалы, товары, купоны на скидку, способы доставки)</p>
+                                <h3 class="h5 g-font-weight-600 g-mb-10">Content management</h3>
+                                <p class="mb-0">Fill your store account with data (fabrics, garments, discount coupons, delivery options)</p>
                             </div>
                             <!-- End Static Process -->
                         </div>
@@ -56,8 +64,8 @@
                                 <i class="u-dot-line-v1-2 g-brd-gray-light-v2--before g-brd-transparent--after g-mb-20">
                                     <span class="u-dot-line-v1__inner g-bg-white g-bg-primary--before g-brd-gray-light-v2"></span>
                                 </i>
-                                <h3 class="h5 g-font-weight-600 g-mb-10">Интеграция</h3>
-                                <p class="mb-0">Используя <a href="#integration">наш guide</a> - подключите виджет к своему сайту.</p>
+                                <h3 class="h5 g-font-weight-600 g-mb-10">Integration</h3>
+                                <p class="mb-0">Connect ShareCloth widget to your website using <a href="#integration">our guide</a></p>
                             </div>
                             <!-- End Static Process -->
                         </div>
@@ -75,15 +83,15 @@
 
 
             <header class="u-heading-v2-3--bottom g-brd-primary g-mb-20" id="integration">
-                <h2 class="h4 u-heading-v2__title g-color-gray-dark-v2 g-font-weight-600 text-uppercase">Подключение виджета</h2>
+                <h2 class="h4 u-heading-v2__title g-color-gray-dark-v2 g-font-weight-600 text-uppercase">The widget integration</h2>
             </header>
 
 
             <div class="mb-2">
                 <div class="d-inline-block g-width-20 g-height-2 g-pos-rel g-top-minus-4 g-bg-primary mr-2"></div>
-                <span class="g-color-gray-dark-v3 g-font-weight-600 g-font-size-16 text-uppercase">Внедрение виджета</span>
+                <span class="g-color-gray-dark-v3 g-font-weight-600 g-font-size-16 text-uppercase">WIDGET INSTALLATION</span>
             </div>
-            <p>Скопируйте код со страницы управления магазином и вставьте на своей странице перед закрывающим тегом body.</p>
+            <p>Copy the code from the store management page and insert it on your page before the closing <code>&lt;/body&gt;</code> tag.</p>
 
             <div><img src="assets/sc/i-step1.png" class="img-fluid" /> </div>
 
@@ -92,20 +100,19 @@
 
             <div class="mb-2">
                 <div class="d-inline-block g-width-20 g-height-2 g-pos-rel g-top-minus-4 g-bg-primary mr-2"></div>
-                <span class="g-color-gray-dark-v3 g-font-weight-600 g-font-size-16 text-uppercase">Конфигурация товара</span>
+                <span class="g-color-gray-dark-v3 g-font-weight-600 g-font-size-16 text-uppercase">PRODUCT CONFIGURATION</span>
             </div>
 
             <div class="mb-5"><img src="assets/sc/i-step2.png" class="img-fluid" /> </div>
 
             <div style="font-size: 18px;" class="mb-lg-5">
             <ol>
-                <li>Убидетесь, что статус товара - <span class="label u-label u-label-success">Product ready for sale</span> </li>
-                <li>В своем магазине на странице товара добавьте триггер ссылку, по нажатию на которую будет открываться виджет.
-    Важно, для триггера ссылки нужно добавить три обязательных атрибута:
+                <li>Make sure that product status is <span class="label u-label u-label-success">Product ready for sale</span> </li>
+                <li>On the product page in your e-commerce add the trigger link that will open the widget when clicked. For the link to work correctly, it requires three attributes:
                     <ul>
                         <li><pre class="mb-0 display-inline">class="sharecloth-shop-trigger"</pre></li>
                         <li><pre class="mb-0 display-inline">data-sharecloth-mode="modal"</pre></li>
-                        <li><pre class="mb-0 display-inline">data-sharecloth-product-id="Product ID"</pre> - где Product ID - это ID товара в системе.</li>
+                        <li><pre class="mb-0 display-inline">data-sharecloth-product-id="Product ID"</pre> - where Product ID is the product’s ID in the On-demand system</li>
                     </ul>
 
                 </li>
@@ -115,12 +122,12 @@
 
 
             <header class="u-heading-v2-3--bottom g-brd-primary g-mb-20" id="integration">
-                <h2 class="h4 u-heading-v2__title g-color-gray-dark-v2 g-font-weight-600 text-uppercase">Подключение виджета для Shopify</h2>
+                <h2 class="h4 u-heading-v2__title g-color-gray-dark-v2 g-font-weight-600 text-uppercase">CONNECTING WIDGET FOR SHOPIFY.com</h2>
             </header>
 
             <div class="mb-2">
                 <div class="d-inline-block g-width-20 g-height-2 g-pos-rel g-top-minus-4 g-bg-primary mr-2"></div>
-                <span class="g-color-gray-dark-v3 g-font-weight-600 g-font-size-16 text-uppercase">Сохраните JS файл подключения</span>
+                <span class="g-color-gray-dark-v3 g-font-weight-600 g-font-size-16 text-uppercase">SAVE THE JS INSTALLATION FILE</span>
             </div>
 
             <div class="mb-5">
@@ -131,7 +138,7 @@
 
             <div class="mb-2">
                 <div class="d-inline-block g-width-20 g-height-2 g-pos-rel g-top-minus-4 g-bg-primary mr-2"></div>
-                <span class="g-color-gray-dark-v3 g-font-weight-600 g-font-size-16 text-uppercase">Внедрение нового asset</span>
+                <span class="g-color-gray-dark-v3 g-font-weight-600 g-font-size-16 text-uppercase">INSTALLATION OF NEW ASSET</span>
             </div>
 
             <p></p>
@@ -141,19 +148,19 @@
             </div>
 
 
-            <p>Загрузите файл, полученном при первом шаге как новый asset в редактировании шаблона shopify.</p>
+            <p>Upload the file that was created during the first step as a new asset into the Shopify editing template</p>
 
 
             <div class="mb-2">
                 <div class="d-inline-block g-width-20 g-height-2 g-pos-rel g-top-minus-4 g-bg-primary mr-2"></div>
-                <span class="g-color-gray-dark-v3 g-font-weight-600 g-font-size-16 text-uppercase">Добавьте загрузку скриптов в footer</span>
+                <span class="g-color-gray-dark-v3 g-font-weight-600 g-font-size-16 text-uppercase">Include scripts at THE FOOTER</span>
             </div>
 
             <div class="mb-5">
                 <img src="assets/sc/i-step2-sh.png" class="img-fluid" alt="" />
             </div>
 
-            <p>Скопируйте код ниже для вставки в шаблон shopify</p>
+            <p>Copy the code below to insert it into Shopify template</p>
             <pre>
                 <?=htmlspecialchars("
 {{ 'vendor.js' | asset_url | script_tag }}
@@ -164,10 +171,10 @@
 
             <div class="mb-2">
                 <div class="d-inline-block g-width-20 g-height-2 g-pos-rel g-top-minus-4 g-bg-primary mr-2"></div>
-                <span class="g-color-gray-dark-v3 g-font-weight-600 g-font-size-16 text-uppercase">Настройте мета теги у товара</span>
+                <span class="g-color-gray-dark-v3 g-font-weight-600 g-font-size-16 text-uppercase">TWEAK PRODUCT METATAGS</span>
             </div>
 
-            <p>Для редактирования метатегов можно использовать любое приложение, доступное в магазине shopify, например:
+            <p>To edit the metatags, you can use any application available from the Shopify store, for example:
             <a href="https://apps.shopify.com/metafields-editor?utm_content=contextual&utm_medium=shopify&utm_source=admin" target="_blank">
                 MetaFields Editor</a>
             </p>
@@ -182,14 +189,13 @@
             </div>
 
 
-            <p>В качествет Namespace нужно ввести <strong>sharecloth</strong>, а в качестве Key <strong>productId</strong>.
-            В поле значение следует ввести ID товара из odm.sharecloth.com (его можно будет скопировать со страницы редактирования товара)
+            <p>Enter <strong>sharecloth</strong> as Namespace, and <strong>productId</strong> as Key. You should put the product ID from odm.sharecloth.com in the value field (it can be copied from the product editing page)
             </p>
 
 
             <div class="mb-2">
                 <div class="d-inline-block g-width-20 g-height-2 g-pos-rel g-top-minus-4 g-bg-primary mr-2"></div>
-                <span class="g-color-gray-dark-v3 g-font-weight-600 g-font-size-16 text-uppercase">Измените шаблон товара</span>
+                <span class="g-color-gray-dark-v3 g-font-weight-600 g-font-size-16 text-uppercase">CHANGE THE PRODUCT TEMPLATE</span>
             </div>
 
             <div class="mb-5">
@@ -228,57 +234,6 @@
             </pre>
 
 
-            <hr />
-            <header class="u-heading-v2-3--bottom g-brd-primary g-mb-20" id="integration">
-                <h2 class="h4 u-heading-v2__title g-color-gray-dark-v2 g-font-weight-600 text-uppercase">Подключение виджета для squarespace.com</h2>
-            </header>
-
-            <div class="mb-2">
-                <div class="d-inline-block g-width-20 g-height-2 g-pos-rel g-top-minus-4 g-bg-primary mr-2"></div>
-                <span class="g-color-gray-dark-v3 g-font-weight-600 g-font-size-16 text-uppercase">Внедрение виджета</span>
-            </div>
-            <p>Скопируйте код со страницы управления магазином и вставьте его в разделе <i>Advanced - Code injection - Footer (/config/settings/advanced/injection)</i>.</p>
-            <p>Кроме этого, подключите  jQuery, если он еще не используется в вашем макете.</p>
-
-            <div><img src="assets/sc/i-step1.png" class="img-fluid" /> </div>
-            <div><img src="assets/sc/i-step-sq-1.png" class="img-fluid" style="max-width: 772px;" /> </div>
-
-            <pre>
-            <?=htmlspecialchars('
-<script src="//code.jquery.com/jquery-2.2.1.min.js"></script>
-<script>
-   window.jQuery || document.write(\'<script src="scripts/jquery-2.2.1.min.js"><\/script>\')
-</script>
-
-<script type="text/javascript" src="https://odm-api.sharecloth.com/embed/static/js?v=1.0&lang=en-us&shop_token=<token here>"></script>            
-            ');?>
-                </pre>
-
-
-            <div class="mb-2">
-                <div class="d-inline-block g-width-20 g-height-2 g-pos-rel g-top-minus-4 g-bg-primary mr-2"></div>
-                <span class="g-color-gray-dark-v3 g-font-weight-600 g-font-size-16 text-uppercase">Подключение на странице товара</span>
-            </div>
-
-            <p>Существует два способа подключения. </p>
-            <p><strong>1.</strong> Через вставку блока кода в разделе редактирования товара.</p>
-
-
-            <div class="mb-5"><img src="assets/sc/i-step-sq-2.png" class="img-fluid" /> </div>
-
-
-            <p><strong>2.</strong> Через режим разреботчика, путем правки макета одного товара: <strong></strong></p>
-
-            <pre>
-                <?=htmlspecialchars('
-<div class="sqs-add-to-cart-button-wrapper" style="visibility: visible;" id="yui_3_17_2_1_1529404026049_546">
-          <div class="sharecloth-shop-trigger"
-           data-sharecloth-product-id="1" data-sharecloth-mode="modal">
-            <div class="sqs-add-to-cart-button-inner">Customize and buy</div>
-          </div>
-        </div>                
-                ');?>
-            </pre>
 
         </div>
     </section>
