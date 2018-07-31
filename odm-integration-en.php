@@ -77,7 +77,7 @@
 
             <div class="text-center mb-md-5">
                 <a class="btn u-btn-primary u-shadow-v24 btn-lg" href="https://sharecloth-odm-demo.myshopify.com/products/beautiful-dress" target="_blank">
-                    View Live Demo
+                    Go to the Shopify Demo
                 </a>
             </div>
 
