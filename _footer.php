@@ -20,28 +20,36 @@
 
                 <article>
                     <h3 class="h6 g-mb-2">
+                        <a class="g-color-white-opacity-0_8 g-color-white--hover" href="https://medium.com/@sharecloth/sharecloth-announces-on-demand-solution-in-new-york-a6884f0993bc">ShareCloth announces On-demand solution in New York</a>
+                    </h3>
+                    <div class="small g-color-white-opacity-0_6">Jul 5, 2018</div>
+                </article>
+
+                <hr class="g-brd-white-opacity-0_1 g-my-10">
+
+                <article>
+                    <h3 class="h6 g-mb-2">
+                        <a class="g-color-white-opacity-0_8 g-color-white--hover" href="https://medium.com/@sharecloth/sharecloth-on-demand-live-case-study-61e73a3e88c8">ShareCloth On-demand live case study</a>
+                    </h3>
+                    <div class="small g-color-white-opacity-0_6">Jun 25, 2018</div>
+                </article>
+
+                <hr class="g-brd-white-opacity-0_1 g-my-10">
+
+                <article>
+                    <h3 class="h6 g-mb-2">
+                        <a class="g-color-white-opacity-0_8 g-color-white--hover" href="https://medium.com/@sharecloth/introducing-sharecloth-on-demand-manufactruing-solution-a1ecd8fb5c1e">Introducing ShareCloth on-demand manufactruing solution</a>
+                    </h3>
+                    <div class="small g-color-white-opacity-0_6">Jun 11, 2018</div>
+                </article>
+
+                <hr class="g-brd-white-opacity-0_1 g-my-10">
+
+                <article>
+                    <h3 class="h6 g-mb-2">
                         <a class="g-color-white-opacity-0_8 g-color-white--hover" href="https://medium.com/@sharecloth/digital-brand-experience-is-the-fashion-business-new-black-cc474a3ff7b5">Digital brand experience is the fashion business’ new black</a>
                     </h3>
                     <div class="small g-color-white-opacity-0_6">Oct 23, 2017</div>
-                </article>
-
-                <hr class="g-brd-white-opacity-0_1 g-my-10">
-
-                <article>
-                    <h3 class="h6 g-mb-2">
-                        <a class="g-color-white-opacity-0_8 g-color-white--hover" href="https://medium.com/@sharecloth/q-a-with-sharecloth-ceo-cda7bac1eb82">Q&amp;A with ShareCloth’ CEO</a>
-                    </h3>
-                    <div class="small g-color-white-opacity-0_6">Oct 10, 2017</div>
-                </article>
-
-                <hr class="g-brd-white-opacity-0_1 g-my-10">
-
-                <article>
-                    <h3 class="h6 g-mb-2">
-                        <a class="g-color-white-opacity-0_8 g-color-white--hover" href="https://medium.com/@sharecloth/introducing-3d-retail-b6bb19915489">Introducing 3D retail
-						</a>
-                    </h3>
-                    <div class="small g-color-white-opacity-0_6">Oct 9, 2017</div>
                 </article>
             </div>
             <!-- End Footer Content -->
