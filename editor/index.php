@@ -94,13 +94,13 @@
 <!-- End Section Content -->
 
 <!-- Section Content -->
-<section id="howItWorks" class="g-bg-primary g-py-90">
+<section id="howItWorks" class="g-theme-bg-gray-light-v1 g-py-90">
   <div class="container text-center g-max-width-750 g-font-size-16 g-mb-65">
     <div class="text-uppercase g-line-height-1_3 g-mb-20">
-      <h2 class="g-line-height-1_3 g-font-size-36 g-color-white mb-0">Simple 3D render for <strong>your apparel</strong></h2>
+      <h2 class="g-line-height-1_3 g-font-size-36 mb-0">Simple 3D render for <strong>your apparel</strong></h2>
     </div>
 
-    <p class="g-color-white mb-0">ShareCloth Editor is available for Windows and Mac with the free non-commercial access to the ShareCloth Cloud</p>
+    <p class="mb-0">ShareCloth Editor is available for Windows and Mac with the free non-commercial access to the ShareCloth Cloud</p>
   </div>
 
   <div class="container">
@@ -113,41 +113,28 @@
       <div class="js-slide">
         <div class="container text-center g-max-width-750">
           <div class="g-mb-20">
-            <img class="d-inline-block img-responsive" src="../assets/sc/editor_avatargenerator_v2.png" alt="Image description">
-            <img class="d-inline-block img-responsive" src="../assets/sc/editor_physics_v2.png" alt="Image description">
+                      <img class="d-inline-block img-fluid" src="../assets/sc/editor_avatargenerator_v2.png" alt="Image description">
           </div>
 
-          <h4 class="h6 text-uppercase g-font-weight-700 g-color-white g-mb-15">User Manual</h4>
-          <p class="g-color-white-opacity-0_8 g-mb-30">Sed feugiat porttitor nunc, non dignissim ipsum vestibulum in. Donec in blandit dolor. Vivamus a fringilla lorem.</p>
-          <a class="btn btn-lg text-uppercase u-btn-white g-font-weight-700 g-font-size-12 g-rounded-10 g-px-25 g-py-12 mb-0" href="#!">Learn more</a>
+          <h4 class="h6 text-uppercase g-font-weight-700 g-mb-15">User Manual</h4>
+          <p class=" g-mb-30">Sed feugiat porttitor nunc, non dignissim ipsum vestibulum in. Donec in blandit dolor. Vivamus a fringilla lorem.</p>
+          <a class="btn btn-lg text-uppercase u-btn-red g-font-weight-700 g-font-size-12 g-rounded-10 g-px-25 g-py-12 mb-0" href="#!">Learn more</a>
         </div>
       </div>
 
-      <div class="js-slide">
-        <div class="container text-center g-max-width-750">
-          <div class="g-mb-20">
-            <img class="d-inline-block" src="assets/img-temp/mockups/mockup5.png" alt="Image description">
-            <img class="d-inline-block" src="assets/img-temp/mockups/mockup6.png" alt="Image description">
-          </div>
+        <div class="js-slide">
+            <div class="container text-center g-max-width-750">
+                <div class="g-mb-20">
+                    <img class="d-inline-block img-fluid" src="../assets/sc/editor_physics_v2.png" alt="Image description">
+                </div>
 
-          <h4 class="h6 text-uppercase g-font-weight-700 g-color-white g-mb-15">Made with love</h4>
-          <p class="g-color-white-opacity-0_8 g-mb-30">Sed feugiat porttitor nunc, non dignissim ipsum vestibulum in. Donec in blandit dolor. Vivamus a fringilla lorem, vel faucibus ante. Nunc ullamcorper, justo a iaculis elementum, enim orci viverra eros, fringilla porttitor lorem eros vel odio.</p>
-          <a class="btn btn-lg text-uppercase u-btn-white g-font-weight-700 g-font-size-12 g-rounded-10 g-px-25 g-py-12 mb-0" href="#!">Learn more</a>
+                <h4 class="h6 text-uppercase g-font-weight-700 g-mb-15">User Manual</h4>
+                <p class=" g-mb-30">Sed feugiat porttitor nunc, non dignissim ipsum vestibulum in. Donec in blandit dolor. Vivamus a fringilla lorem.</p>
+                <a class="btn btn-lg text-uppercase u-btn-red g-font-weight-700 g-font-size-12 g-rounded-10 g-px-25 g-py-12 mb-0" href="#!">Learn more</a>
+            </div>
         </div>
-      </div>
 
-      <div class="js-slide">
-        <div class="container text-center g-max-width-750">
-          <div class="g-mb-20">
-            <img class="d-inline-block" src="assets/img-temp/mockups/mockup5.png" alt="Image description">
-            <img class="d-inline-block" src="assets/img-temp/mockups/mockup6.png" alt="Image description">
-          </div>
 
-          <h4 class="h6 text-uppercase g-font-weight-700 g-color-white g-mb-15">Usability and progresion</h4>
-          <p class="g-color-white-opacity-0_8 g-mb-30">Sed feugiat porttitor nunc, non dignissim ipsum vestibulum in. Donec in blandit dolor. Vivamus a fringilla lorem, vel faucibus ante. Nunc ullamcorper.</p>
-          <a class="btn btn-lg text-uppercase u-btn-white g-font-weight-700 g-font-size-12 g-rounded-10 g-px-25 g-py-12 mb-0" href="#!">Learn more</a>
-        </div>
-      </div>
     </div>
     <!-- End Carousel -->
   </div>

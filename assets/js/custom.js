@@ -51,7 +51,6 @@ $(function() {
         var checked = $agreement.prop('checked');
         var $form = $agreement.closest('form');
         $form.find('[type=submit]').attr('disabled', !checked);
-        console.log(checked);
     }
 
     setButtonState();
