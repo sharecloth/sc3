@@ -9,7 +9,7 @@
           <p class="g-mb-20 g-mb-35--lg">ShareCloth introduces <strong>the Editor</strong>. Your assistant to export flat digital pattern into the virtual 3D sample and make precise fitting on the body mannequin</p>
       		<ul class="list-inline">
 				<li class="list-inline-item">
-					<a href="https://www.dropbox.com/s/vh1ynfznsfqmffm/CurveEditorQT-7073-installer-x64.zip?dl=1">
+					<a href="http://bit.ly/2wavSIx">
 				    	<img src="../assets/sc/editor_download_windows_x64.png" style="max-width:200px" alt="Download for Windows" />
 					</a>
 				</li>
