@@ -7,9 +7,18 @@
         <div class="align-self-center">
           <h2 class="text-uppercase g-line-height-1_3 g-font-size-36 g-mb-20 g-mb-30--lg">Get your apparel  <br><strong> 3D rendered</strong></h2>
           <p class="g-mb-20 g-mb-35--lg">ShareCloth introduces <strong>the Editor</strong>. Your assistant to export flat digital pattern into the virtual 3D sample and make precise fitting on the body mannequin</p>
-         <a href="#">
-         	<img src="../assets/sc/editor_download_windows.png" style="max-width:200px" alt="Download for Windows" />
-         </a>
+      		<ul class="list-inline">
+      			<li class="list-inline-item">
+					<a href="https://www.dropbox.com/s/vh1ynfznsfqmffm/CurveEditorQT-7073-installer-x64.zip?dl=1">
+				    	<img src="../assets/sc/editor_download_windows_x32.png" style="max-width:200px" alt="Download for Windows" />
+					</a>
+				</li>
+				<li class="list-inline-item">
+					<a href="https://www.dropbox.com/s/vh1ynfznsfqmffm/CurveEditorQT-7073-installer-x64.zip?dl=1">
+				    	<img src="../assets/sc/editor_download_windows_x64.png" style="max-width:200px" alt="Download for Windows" />
+					</a>
+				</li>
+      		</ul>
         </div>
       </div>
 
@@ -110,15 +119,14 @@
              data-arrows-classes="u-arrow-v1 g-pos-abs g-top-35x g-width-45 g-height-45 g-color-primary g-bg-white g-rounded-50x g-transition-0_2 g-transition--ease-in"
              data-arrow-left-classes="fa fa-chevron-left g-left-0"
              data-arrow-right-classes="fa fa-chevron-right g-right-0">
-      <div class="js-slide">
+      
+		<div class="js-slide">
         <div class="container text-center g-max-width-750">
           <div class="g-mb-20">
                       <img class="d-inline-block img-fluid" src="../assets/sc/editor_avatargenerator_v2.png" alt="Image description">
           </div>
 
-          <h4 class="h6 text-uppercase g-font-weight-700 g-mb-15">User Manual</h4>
-          <p class=" g-mb-30">Sed feugiat porttitor nunc, non dignissim ipsum vestibulum in. Donec in blandit dolor. Vivamus a fringilla lorem.</p>
-          <a class="btn btn-lg text-uppercase u-btn-red g-font-weight-700 g-font-size-12 g-rounded-10 g-px-25 g-py-12 mb-0" href="#!">Learn more</a>
+          <h4 class="h6 text-uppercase g-font-weight-700 g-mb-15">Virtual body generator</h4>
         </div>
       </div>
 
@@ -128,12 +136,19 @@
                     <img class="d-inline-block img-fluid" src="../assets/sc/editor_physics_v2.png" alt="Image description">
                 </div>
 
-                <h4 class="h6 text-uppercase g-font-weight-700 g-mb-15">User Manual</h4>
-                <p class=" g-mb-30">Sed feugiat porttitor nunc, non dignissim ipsum vestibulum in. Donec in blandit dolor. Vivamus a fringilla lorem.</p>
-                <a class="btn btn-lg text-uppercase u-btn-red g-font-weight-700 g-font-size-12 g-rounded-10 g-px-25 g-py-12 mb-0" href="#!">Learn more</a>
+                <h4 class="h6 text-uppercase g-font-weight-700 g-mb-15">Precise fabric behaviour settings</h4>
+                <!--<p class=" g-mb-30">Sed feugiat porttitor nunc, non dignissim ipsum vestibulum in. Donec in blandit dolor. Vivamus a fringilla lorem.</p>-->
             </div>
         </div>
 
+		<div class="js-slide">
+        	<div class="container text-center g-max-width-750">
+          		<div class="g-mb-20">
+					<img class="d-inline-block img-fluid" src="../assets/sc/editor_cloud_v2.png" alt="Image description">
+				</div>
+          		<h4 class="h6 text-uppercase g-font-weight-700 g-mb-15">Deep integration with ShareCloth Cloud</h4>
+        	</div>
+      	</div>
 
     </div>
     <!-- End Carousel -->
